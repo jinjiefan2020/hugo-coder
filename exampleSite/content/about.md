@@ -1,25 +1,29 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "Jin Jiefan's Tech Insights"
+description = "Who is Jin Jiefan"
+aliases = ["about-us", "about-me", "contact"]
+author = "Jin Jiefan"
 +++
+#### *Connecting the dots between science, technology, and human progress*
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+>
+>
+> Greetings everyone,
+> 
+>   
+> My name is Jiefan, and I'm an independent tech blogger with a passion for exploring the latest developments in the world of technology. My areas of focus include semiconductors, software, artificial intelligence, healthcare, and entrepreneurship.
+> 
+> Through my blog, I aim to provide insightful and thought-provoking views on these topics, while also sharing my unique perspective and expertise. I'm constantly seeking to expand my knowledge and stay current with the latest trends and innovations in the tech industry. Thank you for visiting my blog, and I hope you find my content informative and engaging.
+> 
+> If you come across any errors or have any comments or suggestions, please don't hesitate to let me know. Let's learn and grow together.
+> 
+>   
+> 
+> Cheers,
+> 
+>   
+> 
+> Jin Jiefan
+> 
+> email: jin(a)jinjiefan.com
