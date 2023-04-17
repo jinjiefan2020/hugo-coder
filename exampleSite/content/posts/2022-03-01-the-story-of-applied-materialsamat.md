@@ -76,7 +76,7 @@ Bob also came from a poor town in Indiana, but he definitely surpassed those who
 
 Bob was actually one of the co-founders of Intel, but Andy Grove felt that he was more handsome than him (my assumption) and forced Noyce to choose between them. Later on, Grove became famous for his paranoia and he erased Bob from the history of Intel.
 
-![图片](images/image53.png)
+![图片](../images/image53.png)
 
 (Bob's wedding photo)
 
@@ -94,7 +94,7 @@ Bob advised Jim to acquire Novellus, but his suggestion was rejected. Perhaps ye
 
 Jim's decision is not unreasonable, as he is very dedicated. Despite AMAT being so powerful, it has not touched backend business for many years, and all of their focus is on "applying" materials on wafers.
 
-![图片](images/image54.png)
+![图片](../images/image54.png)
 
 It is not Jim's style to bet on both sides, and at that time, he chose the technical route of betting all on Precision 5000. Although it is also a multi-chamber machine, the classic pentagon design can cover 2-4 chambers. Unlike Novellus, P5000 can be used for a combination of deposition and etching. (P5000 patent diagram) Precision 5000 is indeed a groundbreaking product, forming the standard and discourse power of AMAT modularity.
 

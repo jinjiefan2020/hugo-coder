@@ -93,9 +93,9 @@ On KE's official website, you cannot even see the letters "ALD", only multiple m
 
 The two figures below demonstrate that ASM is still far ahead in the combined strength of ALD patents.
 
-![图片](images/image55.png)
+![图片](../images/image55.png)
 
-![图片](images/image55.png) (Chart Credit: LexisNexis)
+![图片](../images/image55.png) (Chart Credit: LexisNexis)
 
 ### 7\. Resistance against AMAT invasion.
 

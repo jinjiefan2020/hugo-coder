@@ -18,7 +18,7 @@ tags:
 
 Currently, over 70% of the world's chip production capacity utilizes 12-inch (300mm) wafers. However, despite the establishment of the first 12-inch fabrication line almost twenty years ago, why haven't we seen the emergence of the next generation 18-inch (450mm) wafer factories yet.
 
-![图片](images/image10.png)
+![图片](../images/image10.png)
 
 ### Chapter One
 

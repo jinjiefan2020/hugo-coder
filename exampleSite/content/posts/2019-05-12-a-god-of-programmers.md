@@ -49,7 +49,7 @@ Anders' main task was to secretly develop a super IDE with a visual environment:
 
 Delphi uses Object Pascal, whose language design is extremely elegant and perfectly geared towards object-oriented programming. It seamlessly integrates with databases and allows for direct manipulation of the operating system (including hardware and networking), making it an ideal tool for developing native Windows programs. Interestingly, the VCL and RTL libraries in Delphi were developed using Delphi itself, and the included source code enables programmers to learn from the true masters of programming.
 
-![图片](images/image58.png)
+![图片](../images/image58.png)
 
 Delphi 2 screenshot.
 

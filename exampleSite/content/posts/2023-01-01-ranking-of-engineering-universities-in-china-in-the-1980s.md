@@ -38,7 +38,203 @@ So, using the number of doctoral advisors in science and engineering as a rankin
 
 Without further ado, let's take a look at the ranking:
 
-<table><colgroup><col style="width: 9%"> <col style="width: 46%"> <col style="width: 43%"></colgroup><tbody><tr class="odd"><td>Ranking</td><td>School Name</td><td>Number of Doctoral Supervisors in Science and Engineering Fields.</td></tr><tr class="even"><td>1</td><td><p>清华大学</p><p>Tsinghua University.</p></td><td>127</td></tr><tr class="odd"><td>2</td><td><p>北京大学</p><p>Peking University</p></td><td>123</td></tr><tr class="even"><td>3</td><td><p>南京大学</p><p>Nanjing University.</p></td><td>65</td></tr><tr class="odd"><td>4</td><td><p>西安交通大学</p><p>Xi'an Jiaotong University</p></td><td>52</td></tr><tr class="even"><td>5</td><td><p>复旦大学</p><p>Fudan University</p></td><td>49</td></tr><tr class="odd"><td>6</td><td><p>上海交通大学</p><p>Shanghai Jiao Tong University</p></td><td>47</td></tr><tr class="even"><td>7</td><td><p>浙江大学</p><p>Zhejiang University</p></td><td>46</td></tr><tr class="odd"><td>7</td><td><p>中国科学技术大学</p><p>University of Science and Technology of China</p></td><td>46</td></tr><tr class="even"><td>9</td><td><p>中国地质科技大学</p><p>China University of Geosciences</p></td><td>38</td></tr><tr class="odd"><td>10</td><td><p>北京航空学院</p><p>Beijing University of Aeronautics and Astronautics</p></td><td>37</td></tr><tr class="even"><td>11</td><td><p>北京钢铁学院</p><p>Beijing Institute of Iron and Steel Technology.</p></td><td>36</td></tr><tr class="odd"><td>12</td><td><p>天津大学</p><p>Tianjin University.</p></td><td>34</td></tr><tr class="even"><td>13</td><td><p>哈尔滨工业大学</p><p>Harbin Institute of Technology</p></td><td>33</td></tr><tr class="odd"><td>14</td><td><p>华中工学院</p><p>Huazhong University of Science and Technology.</p></td><td>31</td></tr><tr class="even"><td>14</td><td><p>同济大学</p><p>Tongji University</p></td><td>31</td></tr><tr class="odd"><td>16</td><td><p>吉林大学</p><p>Jilin University</p></td><td>30</td></tr><tr class="even"><td>17</td><td><p>北京工业学院</p><p>Beijing University of Technology.</p></td><td>29</td></tr><tr class="odd"><td>18</td><td><p>大连工学院</p><p>Dalian University of Technology</p></td><td>27</td></tr><tr class="even"><td>18</td><td><p>南京工学院</p><p>Nanjing Institute of Technology</p></td><td>27</td></tr><tr class="odd"><td>20</td><td><p>南开大学</p><p>Nankai University</p></td><td>26</td></tr><tr class="even"><td>20</td><td><p>中国矿业学院</p><p>China University of Mining and Technology.</p></td><td>26</td></tr><tr class="odd"><td>22</td><td><p>西北工业大学</p><p>Northwestern Polytechnical University.</p></td><td>25</td></tr><tr class="even"><td>23</td><td><p>中山大学</p><p>Sun Yat-sen University</p></td><td>22</td></tr><tr class="odd"><td>24</td><td><p>东北工学院</p><p>Northeastern University of Technology.</p></td><td>21</td></tr><tr class="even"><td>24</td><td><p>兰州大学</p><p>Lanzhou University</p></td><td>21</td></tr><tr class="odd"><td>26</td><td><p>华东师范大学</p><p>East China Normal University</p></td><td>20</td></tr><tr class="even"><td>27</td><td><p>北京师范大学</p><p>Beijing Normal University</p></td><td>19</td></tr><tr class="odd"><td>27</td><td><p>华南工学院</p><p>South China Institute of Technology.</p></td><td>19</td></tr><tr class="even"><td>27</td><td><p>厦门大学</p><p>Xiamen University</p></td><td>19</td></tr><tr class="odd"><td>27</td><td><p>中南工业大学</p><p>Central South University of Technology</p></td><td>19</td></tr><tr class="even"><td>31</td><td><p>华东工学院</p><p>Huadong Institute of Technology</p></td><td>18</td></tr><tr class="odd"><td>31</td><td><p>武汉大学</p><p>Wuhan University</p></td><td>18</td></tr><tr class="even"><td>33</td><td><p>华东化工学院</p><p>East China University of Chemical Technology.</p></td><td>17</td></tr><tr class="odd"><td>34</td><td><p>国防科学技术大学</p><p>National University of Defense Technology</p></td><td>14</td></tr><tr class="even"><td>34</td><td><p>河海大学</p><p>Hohai University.</p></td><td>14</td></tr><tr class="odd"><td>34</td><td><p>南京航空学院</p><p>Nanjing University of Aeronautics and Astronautics.</p></td><td>14</td></tr><tr class="even"><td>37</td><td><p>吉林工业大学</p><p>Jilin University of Technology</p></td><td>13</td></tr><tr class="odd"><td>38</td><td><p>山东大学</p><p>Shandong University.</p></td><td>12</td></tr><tr class="even"><td>38</td><td><p>武汉水利电力学院</p><p>Wuhan University of Water Resources and Electric Power</p></td><td>12</td></tr><tr class="odd"><td>38</td><td><p>西南交通大学</p><p>Southwest Jiaotong University</p></td><td>12</td></tr><tr class="even"><td>41</td><td><p>华东石油学院</p><p>East China Petroleum Institute.</p></td><td>10</td></tr><tr class="odd"><td>41</td><td><p>四川大学</p><p>Sichuan University</p></td><td>10</td></tr><tr class="even"><td>41</td><td><p>中国纺织大学</p><p>China Textile University</p></td><td>10</td></tr><tr class="odd"><td>41</td><td><p>重庆大学</p><p>Chongqing University.</p></td><td>10</td></tr><tr class="even"><td>45</td><td><p>成都地质学院</p><p>Chengdu University of Technology</p></td><td>9</td></tr><tr class="odd"><td>45</td><td><p>成都科学技术大学</p><p>Chengdu University of Science and Technology</p></td><td>9</td></tr><tr class="even"><td>47</td><td><p>成都电讯工程学院</p><p>Chengdu Telecommunications Engineering College.</p></td><td>8</td></tr><tr class="odd"><td>47</td><td><p>哈尔滨船舶工程学院</p><p>Harbin Shipbuilding Engineering Institute.</p></td><td>8</td></tr><tr class="even"><td>47</td><td><p>哈尔滨建筑工程学院</p><p>Harbin Institute of Architecture and Civil Engineering.</p></td><td>8</td></tr><tr class="odd"><td>47</td><td><p>西北电讯工程学院</p><p>Northwest Telecommunications Engineering Institute</p></td><td>8</td></tr><tr class="even"><td>51</td><td><p>北方交通大学</p><p>North China University of Transportation</p></td><td>7</td></tr><tr class="odd"><td>51</td><td><p>北京邮电学院</p><p>Beijing University of Posts and Telecommunications.</p></td><td>7</td></tr><tr class="even"><td>51</td><td><p>长春地质学院</p><p>Changchun Institute of Geology</p></td><td>7</td></tr><tr class="odd"><td>54</td><td><p>湖南大学</p><p>Hunan University</p></td><td>6</td></tr><tr class="even"><td>54</td><td><p>南京化工学院</p><p>Nanjing Institute of Chemical Technology.</p></td><td>6</td></tr><tr class="odd"><td>54</td><td><p>武汉测绘科技大学</p><p>Wuhan University of Geomatics and Cartography Technology.</p></td><td>6</td></tr><tr class="even"><td>57</td><td><p>杭州大学</p><p>Hangzhou University</p></td><td>5</td></tr><tr class="odd"><td>57</td><td><p>上海机械学院</p><p>Shanghai Institute of Mechanical Engineering.</p></td><td>5</td></tr><tr class="even"><td>59</td><td><p>北京化工学院</p><p>Beijing University of Chemical Technology.</p></td><td>4</td></tr><tr class="odd"><td>59</td><td><p>江苏工学院</p><p>Jiangsu Polytechnic Institute.</p></td><td>4</td></tr><tr class="even"><td>59</td><td><p>南京林业大学</p><p>Nanjing Forestry University</p></td><td>4</td></tr><tr class="odd"><td>59</td><td><p>山东海洋学院</p><p>Shandong Ocean University.</p></td><td>4</td></tr><tr class="even"><td>59</td><td><p>无锡轻工业学院</p><p>Wuxi Institute of Technology (WIT)</p></td><td>4</td></tr><tr class="odd"><td>59</td><td><p>重庆建筑工程学院</p><p>Chongqing University of Architecture and Engineering.</p></td><td>4</td></tr><tr class="even"><td>65</td><td><p>北京农业工程大学</p><p>Beijing Agricultural Engineering University.</p></td><td>3</td></tr><tr class="odd"><td>65</td><td><p>大连海运学院</p><p>Dalian Maritime University</p></td><td>3</td></tr><tr class="even"><td>65</td><td><p>东北师范大学</p><p>Northeast Normal University</p></td><td>3</td></tr><tr class="odd"><td>65</td><td><p>解放军防化研究院</p><p>PLA Institute of Chemical Defense Research</p></td><td>3</td></tr><tr class="even"><td>65</td><td><p>南京水利科学研究院</p><p>Nanjing Hydraulic Research Institute.</p></td><td>3</td></tr><tr class="odd"><td>65</td><td><p>上海科学技术大学</p><p>Shanghai University of Science and Technology</p></td><td>3</td></tr><tr class="even"><td>65</td><td><p>武汉工业大学</p><p>Wuhan University of Technology</p></td><td>3</td></tr><tr class="odd"><td>65</td><td><p>武汉水运工程学院</p><p>Wuhan Water Transportation Engineering College</p></td><td>3</td></tr><tr class="even"><td>65</td><td><p>西北大学</p><p>Northwest University</p></td><td>3</td></tr><tr class="odd"><td>65</td><td><p>西南石油学院</p><p>Southwest Petroleum University</p></td><td>3</td></tr><tr class="even"><td>75</td><td><p>北京工业大学</p><p>Beijing University of Technology.</p></td><td>2</td></tr><tr class="odd"><td>75</td><td><p>东北林业大学</p><p>Northeast Forestry University</p></td><td>2</td></tr><tr class="even"><td>75</td><td><p>东北重型机械学院</p><p>Northeast Heavy Machinery Institute.</p></td><td>2</td></tr><tr class="odd"><td>75</td><td><p>福州大学</p><p>Fuzhou University</p></td><td>2</td></tr><tr class="even"><td>75</td><td><p>海军工程学院</p><p>Naval University of Engineering</p></td><td>2</td></tr><tr class="odd"><td>75</td><td><p>合肥工业大学</p><p>Hefei University of Technology.</p></td><td>2</td></tr><tr class="even"><td>75</td><td><p>解放军测绘学院</p><p>PLA Institute of Surveying and Mapping</p></td><td>2</td></tr><tr class="odd"><td>75</td><td><p>昆明工学院</p><p>Kunming University of Science and Technology.</p></td><td>2</td></tr><tr class="even"><td>75</td><td><p>煤炭科学研究院</p><p>Coal Science Research Institute</p></td><td>2</td></tr><tr class="odd"><td>75</td><td><p>陕西机械学院</p><p>Shaanxi Institute of Mechanical Engineering.</p></td><td>2</td></tr><tr class="even"><td>75</td><td><p>上海工业大学</p><p>Shanghai University of Engineering Science.</p></td><td>2</td></tr><tr class="odd"><td>75</td><td><p>西安冶金建筑学院</p><p>Xi'an University of Architecture and Technology</p></td><td>2</td></tr><tr class="even"><td>75</td><td><p>长沙铁道学院</p><p>Changsha Railway University</p></td><td>2</td></tr><tr class="odd"><td>87</td><td><p>华南师范大学</p><p>South China Normal University</p></td><td>1</td></tr><tr class="even"><td>87</td><td><p>华中师范大学</p><p>Central China Normal University</p></td><td>1</td></tr><tr class="odd"><td>87</td><td><p>解放军通信工程学院</p><p>PLA Communication Engineering Academy</p></td><td>1</td></tr><tr class="even"><td>87</td><td><p>南京师范大学</p><p>Nanjing Normal University</p></td><td>1</td></tr><tr class="odd"><td>87</td><td><p>内蒙古大学</p><p>Inner Mongolia University</p></td><td>1</td></tr><tr class="even"><td>87</td><td><p>山东工业大学</p><p>Shandong University of Technology</p></td><td>1</td></tr><tr class="odd"><td>87</td><td><p>陕西师范大学</p><p>Shaanxi Normal University</p></td><td>1</td></tr><tr class="even"><td>87</td><td><p>太原工业大学</p><p>Taiyuan University of Technology</p></td><td>1</td></tr><tr class="odd"><td>87</td><td><p>天津轻工业学院</p><p>Tianjin University of Light Industry.</p></td><td>1</td></tr><tr class="even"><td>87</td><td><p>西安地质学院</p><p>Xi'an University of Geology</p></td><td>1</td></tr></tbody></table>
+|Ranking|School Name|Number of Doctoral Supervisors in Science and Engineering Fields|
+|:----|:----|:----|
+|1|清华大学|127|
+| |Tsinghua University| |
+|2|北京大学|123|
+| |Peking University| |
+|3|南京大学|65|
+| |Nanjing University| |
+|4|西安交通大学|52|
+| |Xi'an Jiaotong University| |
+|5|复旦大学|49|
+| |Fudan University| |
+|6|上海交通大学|47|
+| |Shanghai Jiao Tong University| |
+|7|浙江大学|46|
+| |Zhejiang University| |
+|7|中国科学技术大学|46|
+| |University of Science and Technology of China| |
+|9|中国地质科技大学|38|
+| |China University of Geosciences| |
+|10|北京航空学院|37|
+| |Beijing University of Aeronautics and Astronautics| |
+|11|北京钢铁学院|36|
+| |Beijing Institute of Iron and Steel Technology.| |
+|12|天津大学|34|
+| |Tianjin University.| |
+|13|哈尔滨工业大学|33|
+| |Harbin Institute of Technology| |
+|14|华中工学院|31|
+| |Huazhong University of Science and Technology.| |
+|14|同济大学|31|
+| |Tongji University| |
+|16|吉林大学|30|
+| |Jilin University| |
+|17|北京工业学院|29|
+| |Beijing University of Technology.| |
+|18|大连工学院|27|
+| |Dalian University of Technology| |
+|18|南京工学院|27|
+| |Nanjing Institute of Technology| |
+|20|南开大学|26|
+| |Nankai University| |
+|20|中国矿业学院|26|
+| |China University of Mining and Technology.| |
+|22|西北工业大学|25|
+| |Northwestern Polytechnical University.| |
+|23|中山大学|22|
+| |Sun Yat-sen University| |
+|24|东北工学院|21|
+| |Northeastern University of Technology.| |
+|24|兰州大学|21|
+| |Lanzhou University| |
+|26|华东师范大学|20|
+| |East China Normal University| |
+|27|北京师范大学|19|
+| |Beijing Normal University| |
+|27|华南工学院|19|
+| |South China Institute of Technology.| |
+|27|厦门大学|19|
+| |Xiamen University| |
+|27|中南工业大学|19|
+| |Central South University of Technology| |
+|31|华东工学院|18|
+| |Huadong Institute of Technology| |
+|31|武汉大学|18|
+| |Wuhan University| |
+|33|华东化工学院|17|
+| |East China University of Chemical Technology| |
+|34|国防科学技术大学|14|
+| |National University of Defense Technology| |
+|34|河海大学|14|
+| |Hohai University| |
+|34|南京航空学院|14|
+| |Nanjing University of Aeronautics and Astronautics| |
+|37|吉林工业大学|13|
+| |Jilin University of Technology| |
+|38|山东大学|12|
+| |Shandong University| |
+|38|武汉水利电力学院|12|
+| |Wuhan University of Water Resources and Electric Power| |
+|38|西南交通大学|12|
+| |Southwest Jiaotong University| |
+|41|华东石油学院|10|
+| |East China Petroleum Institute| |
+|41|四川大学|10|
+| |Sichuan University| |
+|41|中国纺织大学|10|
+| |China Textile University| |
+|41|重庆大学|10|
+| |Chongqing University.| |
+|45|成都地质学院|9|
+| |Chengdu University of Technology| |
+|45|成都科学技术大学|9|
+| |Chengdu University of Science and Technology| |
+|47|成都电讯工程学院|8|
+| |Chengdu Telecommunications Engineering College| |
+|47|哈尔滨船舶工程学院|8|
+| |Harbin Shipbuilding Engineering Institute.| |
+|47|哈尔滨建筑工程学院|8|
+| |Harbin Institute of Architecture and Civil Engineering| |
+|47|西北电讯工程学院|8|
+| |Northwest Telecommunications Engineering Institute| |
+|51|北方交通大学|7|
+| |North China University of Transportation| |
+|51|北京邮电学院|7|
+| |Beijing University of Posts and Telecommunications| |
+|51|长春地质学院|7|
+| |Changchun Institute of Geology| |
+|54|湖南大学|6|
+| |Hunan University| |
+|54|南京化工学院|6|
+| |Nanjing Institute of Chemical Technology| |
+|54|武汉测绘科技大学|6|
+| |Wuhan University of Geomatics and Cartography Technology| |
+|57|杭州大学|5|
+| |Hangzhou University| |
+|57|上海机械学院|5|
+| |Shanghai Institute of Mechanical Engineering| |
+|59|北京化工学院|4|
+| |Beijing University of Chemical Technology| |
+|59|江苏工学院|4|
+| |Jiangsu Polytechnic Institute.| |
+|59|南京林业大学|4|
+| |Nanjing Forestry University| |
+|59|山东海洋学院|4|
+| |Shandong Ocean University.| |
+|59|无锡轻工业学院|4|
+| |Wuxi Institute of Technology (WIT)| |
+|59|重庆建筑工程学院|4|
+| |Chongqing University of Architecture and Engineering.| |
+|65|北京农业工程大学|3|
+| |Beijing Agricultural Engineering University.| |
+|65|大连海运学院|3|
+| |Dalian Maritime University| |
+|65|东北师范大学|3|
+| |Northeast Normal University| |
+|65|解放军防化研究院|3|
+| |PLA Institute of Chemical Defense Research| |
+|65|南京水利科学研究院|3|
+| |Nanjing Hydraulic Research Institute.| |
+|65|上海科学技术大学|3|
+| |Shanghai University of Science and Technology| |
+|65|武汉工业大学|3|
+| |Wuhan University of Technology| |
+|65|武汉水运工程学院|3|
+| |Wuhan Water Transportation Engineering College| |
+|65|西北大学|3|
+| |Northwest University| |
+|65|西南石油学院|3|
+| |Southwest Petroleum University| |
+|75|北京工业大学|2|
+| |Beijing University of Technology.| |
+|75|东北林业大学|2|
+| |Northeast Forestry University| |
+|75|东北重型机械学院|2|
+| |Northeast Heavy Machinery Institute.| |
+|75|福州大学|2|
+| |Fuzhou University| |
+|75|海军工程学院|2|
+| |Naval University of Engineering| |
+|75|合肥工业大学|2|
+| |Hefei University of Technology.| |
+|75|解放军测绘学院|2|
+| |PLA Institute of Surveying and Mapping| |
+|75|昆明工学院|2|
+| |Kunming University of Science and Technology.| |
+|75|煤炭科学研究院|2|
+| |Coal Science Research Institute| |
+|75|陕西机械学院|2|
+| |Shaanxi Institute of Mechanical Engineering.| |
+|75|上海工业大学|2|
+| |Shanghai University of Engineering Science.| |
+|75|西安冶金建筑学院|2|
+| |Xi'an University of Architecture and Technology| |
+|75|长沙铁道学院|2|
+| |Changsha Railway University| |
+|87|华南师范大学|1|
+| |South China Normal University| |
+|87|华中师范大学|1|
+| |Central China Normal University| |
+|87|解放军通信工程学院|1|
+| |PLA Communication Engineering Academy| |
+|87|南京师范大学|1|
+| |Nanjing Normal University| |
+|87|内蒙古大学|1|
+| |Inner Mongolia University| |
+|87|山东工业大学|1|
+| |Shandong University of Technology| |
+|87|陕西师范大学|1|
+| |Shaanxi Normal University| |
+|87|太原工业大学|1|
+| |Taiyuan University of Technology| |
+|87|天津轻工业学院|1|
+| |Tianjin University of Light Industry.| |
+|87|西安地质学院|1|
+| |Xi'an University of Geology| |
+
 
 The top 8 schools from that year are the same as C9 now, but the competition for 9th place is fierce: schools such as Geology, Beihang, North Steel and Tianjin University are not inferior to Harbin Institute of Technology.
 
@@ -56,7 +252,109 @@ So, wouldn't it be more interesting to add all the doctoral advisers in the fiel
 
 Let's take a quick look at the top 50:
 
-<table><colgroup><col style="width: 9%"> <col style="width: 54%"> <col style="width: 35%"></colgroup><tbody><tr class="odd"><td>Ranking</td><td>Organization or institution.</td><td>Number of Doctoral Supervisors</td></tr><tr class="even"><td>1</td><td><p>中国科学院</p><p>Chinese Academy of Sciences</p></td><td>611</td></tr><tr class="odd"><td>2</td><td><p>北京大学</p><p>Peking University</p></td><td>195</td></tr><tr class="even"><td>3</td><td><p>中国社会科学院</p><p>Chinese Academy of Social Sciences</p></td><td>144</td></tr><tr class="odd"><td>4</td><td><p>清华大学</p><p>Tsinghua University</p></td><td>127</td></tr><tr class="even"><td>5</td><td><p>复旦大学</p><p>Fudan University</p></td><td>84</td></tr><tr class="odd"><td>6</td><td><p>南京大学</p><p>Nanjing University</p></td><td>82</td></tr><tr class="even"><td>6</td><td><p>中国协和医科大学</p><p>China Union Medical College</p></td><td>82</td></tr><tr class="odd"><td>8</td><td><p>上海医科大学</p><p>Shanghai Medical College.</p></td><td>76</td></tr><tr class="even"><td>9</td><td><p>北京医科大学</p><p>Peking University Medical College</p></td><td>72</td></tr><tr class="odd"><td>10</td><td><p>南开大学</p><p>Nankai University</p></td><td>52</td></tr><tr class="even"><td>10</td><td><p>西安交通大学</p><p>Xi'an Jiaotong University</p></td><td>52</td></tr><tr class="odd"><td>12</td><td><p>中国人民大学</p><p>Renmin University of China</p></td><td>49</td></tr><tr class="even"><td>13</td><td><p>上海第二医科大学</p><p>Shanghai Second Medical University.</p></td><td>48</td></tr><tr class="odd"><td>14</td><td><p>上海交通大学</p><p>Shanghai Jiao Tong University</p></td><td>47</td></tr><tr class="even"><td>15</td><td><p>浙江大学</p><p>Zhejiang University</p></td><td>46</td></tr><tr class="odd"><td>15</td><td><p>中国科学技术大学</p><p>University of Science and Technology of China</p></td><td>46</td></tr><tr class="even"><td>17</td><td><p>北京农业大学</p><p>Beijing Agricultural University.</p></td><td>44</td></tr><tr class="odd"><td>18</td><td><p>同济医科大学</p><p>Tongji Medical College</p></td><td>43</td></tr><tr class="even"><td>19</td><td><p>北京师范大学</p><p>Beijing Normal University</p></td><td>42</td></tr><tr class="odd"><td>20</td><td><p>华东师范大学</p><p>East China Normal University</p></td><td>40</td></tr><tr class="even"><td>21</td><td><p>吉林大学</p><p>Jilin University</p></td><td>38</td></tr><tr class="odd"><td>22</td><td><p>北京航空学院</p><p>Beijing University of Aeronautics and Astronautics</p></td><td>37</td></tr><tr class="even"><td>22</td><td><p>中国地质科技大学</p><p>China University of Geosciences</p></td><td>37</td></tr><tr class="odd"><td>24</td><td><p>北京钢铁学院</p><p>Beijing Institute of Iron and Steel Technology.</p></td><td>36</td></tr><tr class="even"><td>24</td><td><p>中山医科大学</p><p>Zhongshan University of Medical Sciences.</p></td><td>36</td></tr><tr class="odd"><td>26</td><td><p>武汉大学</p><p>Wuhan University</p></td><td>35</td></tr><tr class="even"><td>27</td><td><p>华西医科大学</p><p>West China Medical University</p></td><td>34</td></tr><tr class="odd"><td>27</td><td><p>厦门大学</p><p>Xiamen University</p></td><td>34</td></tr><tr class="even"><td>27</td><td><p>天津大学</p><p>Tianjin University</p></td><td>34</td></tr><tr class="odd"><td>30</td><td><p>哈尔滨工业大学</p><p>Harbin Institute of Technology</p></td><td>33</td></tr><tr class="even"><td>30</td><td><p>华中工学院</p><p>Huazhong University of Science and Technology</p></td><td>33</td></tr><tr class="odd"><td>30</td><td><p>中山大学</p><p>Sun Yat-sen University</p></td><td>33</td></tr><tr class="even"><td>33</td><td><p>同济大学</p><p>Tongji University</p></td><td>31</td></tr><tr class="odd"><td>34</td><td><p>第四军医大学</p><p>Fourth Military Medical University</p></td><td>30</td></tr><tr class="even"><td>35</td><td><p>北京工业学院</p><p>Beijing University of Technology</p></td><td>29</td></tr><tr class="odd"><td>36</td><td><p>大连工学院</p><p>Dalian Polytechnic University.</p></td><td>27</td></tr><tr class="even"><td>36</td><td><p>南京工学院</p><p>Nanjing Institute of Technology.</p></td><td>27</td></tr><tr class="odd"><td>36</td><td><p>中国地质科学院</p><p>Chinese Academy of Geological Sciences</p></td><td>27</td></tr><tr class="even"><td>39</td><td><p>中国矿业学院</p><p>China University of Mining and Technology.</p></td><td>26</td></tr><tr class="odd"><td>40</td><td><p>西北工业大学</p><p>Northwestern Polytechnical University</p></td><td>25</td></tr><tr class="even"><td>41</td><td><p>南京农业大学</p><p>Nanjing Agricultural University.</p></td><td>23</td></tr><tr class="odd"><td>42</td><td><p>第二军医大学</p><p>Second Military Medical University</p></td><td>21</td></tr><tr class="even"><td>42</td><td><p>东北工学院</p><p>Northeastern University of Engineering.</p></td><td>21</td></tr><tr class="odd"><td>42</td><td><p>军事医学科学院</p><p>Academy of Military Medical Sciences.</p></td><td>21</td></tr><tr class="even"><td>42</td><td><p>兰州大学</p><p>Lanzhou University</p></td><td>21</td></tr><tr class="odd"><td>46</td><td><p>华南工学院</p><p>South China Institute of Technology.</p></td><td>19</td></tr><tr class="even"><td>46</td><td><p>中南工业大学</p><p>Central South University of Technology</p></td><td>19</td></tr><tr class="odd"><td>48</td><td><p>湖南医学院</p><p>Hunan University of Medicine.</p></td><td>18</td></tr><tr class="even"><td>48</td><td><p>华东工学院</p><p>East China University of Technology</p></td><td>18</td></tr><tr class="odd"><td>48</td><td><p>中国农业科学院</p><p>Chinese Academy of Agricultural Sciences</p></td><td>18</td></tr></tbody></table>
+|Ranking|Organization or institution.|Number of Doctoral Supervisors|
+|:----|:----|:----|
+|1|中国科学院|611|
+| |Chinese Academy of Sciences| |
+|2|北京大学|195|
+| |Peking University| |
+|3|中国社会科学院|144|
+| |Chinese Academy of Social Sciences| |
+|4|清华大学|127|
+| |Tsinghua University| |
+|5|复旦大学|84|
+| |Fudan University| |
+|6|南京大学|82|
+| |Nanjing University| |
+|6|中国协和医科大学|82|
+| |China Union Medical College| |
+|8|上海医科大学|76|
+| |Shanghai Medical College.| |
+|9|北京医科大学|72|
+| |Peking University Medical College| |
+|10|南开大学|52|
+| |Nankai University| |
+|10|西安交通大学|52|
+| |Xi'an Jiaotong University| |
+|12|中国人民大学|49|
+| |Renmin University of China| |
+|13|上海第二医科大学|48|
+| |Shanghai Second Medical University.| |
+|14|上海交通大学|47|
+| |Shanghai Jiao Tong University| |
+|15|浙江大学|46|
+| |Zhejiang University| |
+|15|中国科学技术大学|46|
+| |University of Science and Technology of China| |
+|17|北京农业大学|44|
+| |Beijing Agricultural University.| |
+|18|同济医科大学|43|
+| |Tongji Medical College| |
+|19|北京师范大学|42|
+| |Beijing Normal University| |
+|20|华东师范大学|40|
+| |East China Normal University| |
+|21|吉林大学|38|
+| |Jilin University| |
+|22|北京航空学院|37|
+| |Beijing University of Aeronautics and Astronautics| |
+|22|中国地质科技大学|37|
+| |China University of Geosciences| |
+|24|北京钢铁学院|36|
+| |Beijing Institute of Iron and Steel Technology.| |
+|24|中山医科大学|36|
+| |Zhongshan University of Medical Sciences.| |
+|26|武汉大学|35|
+| |Wuhan University| |
+|27|华西医科大学|34|
+| |West China Medical University| |
+|27|厦门大学|34|
+| |Xiamen University| |
+|27|天津大学|34|
+| |Tianjin University| |
+|30|哈尔滨工业大学|33|
+| |Harbin Institute of Technology| |
+|30|华中工学院|33|
+| |Huazhong University of Science and Technology| |
+|30|中山大学|33|
+| |Sun Yat-sen University| |
+|33|同济大学|31|
+| |Tongji University| |
+|34|第四军医大学|30|
+| |Fourth Military Medical University| |
+|35|北京工业学院|29|
+| |Beijing University of Technology| |
+|36|大连工学院|27|
+| |Dalian Polytechnic University.| |
+|36|南京工学院|27|
+| |Nanjing Institute of Technology.| |
+|36|中国地质科学院|27|
+| |Chinese Academy of Geological Sciences| |
+|39|中国矿业学院|26|
+| |China University of Mining and Technology.| |
+|40|西北工业大学|25|
+| |Northwestern Polytechnical University| |
+|41|南京农业大学|23|
+| |Nanjing Agricultural University.| |
+|42|第二军医大学|21|
+| |Second Military Medical University| |
+|42|东北工学院|21|
+| |Northeastern University of Engineering.| |
+|42|军事医学科学院|21|
+| |Academy of Military Medical Sciences.| |
+|42|兰州大学|21|
+| |Lanzhou University| |
+|46|华南工学院|19|
+| |South China Institute of Technology.| |
+|46|中南工业大学|19|
+| |Central South University of Technology| |
+|48|湖南医学院|18|
+| |Hunan University of Medicine.| |
+|48|华东工学院|18|
+| |East China University of Technology| |
+|48|中国农业科学院|18|
+| |Chinese Academy of Agricultural Sciences| |
+
 
 The first thing that catches the eye is the giant Chinese Academy of Sciences. In fact, today the number of doctoral students enrolled in the University of Chinese Academy of Sciences is also far ahead, but this training model based on more than 100 research institutes nationwide is not like traditional universities.
 

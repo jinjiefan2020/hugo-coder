@@ -218,7 +218,7 @@ Xu Zhong returned to the School of Economics and Management at Tsinghua Universi
 
 After continuing her studies at Tsinghua and Harvard, Qiu Hongyun worked hard and started a new business in the field of astronomical CCD cameras, which is now a well-known professional company called "LightSpeed Vision".
 
-![图片](images/image94.png)
+![图片](../images/image94.png)
 
 (Photo) Nebula and Jupiter photos taken by foreign netizens using Qiu Hongyun's products.
 

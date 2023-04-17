@@ -3,7 +3,7 @@ title = "Jin Jiefan's Tech Insights"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
+paginate = 80
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
@@ -15,8 +15,8 @@ style = "github-dark"
 author = "Jin Jiefan"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Jin Jiefan's Tech Insights"
-keywords = "blog,tech,personal"
-info = ["Independent Investor", "Thinker", "Earth Lover"]
+keywords = "blog,tech,personal,semiconductor,telecom,healthcare"
+info = ["independent investor", "thinker", "food lover"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "jin@jinjiefan.com"
 dateFormat = "January 2, 2006"

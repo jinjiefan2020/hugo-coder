@@ -36,7 +36,7 @@ Ellison listed the neighbor's old house that holds their memory for sale in the 
 
 Steve Jobs' widow, Laurene Jobs, has been persistent in applying for the demolition of their old home, and in 2016, construction began on their new home. However, it seems that she has no intention of actually living there, but rather fulfilling Steve Jobs' wish. She owns several beautiful properties, such as a $60 million mansion on the Malibu beachfront, which was affected by last year's wildfires.
 
-![图片](images/image61.png)
+![图片](../images/image61.png)
 
 (The old residence of Steve Jobs, which is under renovation on Google Maps)
 
@@ -56,7 +56,7 @@ The following image is Oracle Arena, where Ellison often goes: the home stadium 
 
 The following image depicts the 6th largest island owned by Ellison, located in Hawaii.
 
-![图片](images/image62.png)
+![图片](../images/image62.png)
 
 Let's reflect on our country's wealthy people, who should learn to spend their money with a little more taste.
 
@@ -102,6 +102,6 @@ Like Steve Jobs, Ellison came from a humble background and did not graduate from
 
 What kind of driving force pushes him to proactively read IBM's profound papers on relational databases (as shown in the picture) at his age, and bravely turn it into reality? We should know that even IBM itself had not realized the value of it at the time.
 
-![图片](images/image61.png)
+![图片](../images/image61.png)
 
 As the unparalleled masters who have driven IT and the internet for forty years, I believe we should first admire Jobs and Ellison before making any evaluations.

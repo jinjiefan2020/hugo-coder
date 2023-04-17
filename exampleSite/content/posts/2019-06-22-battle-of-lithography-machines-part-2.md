@@ -25,7 +25,7 @@ I am fortunate to have received the support of Dutch author René Raaijmakers in
 
 Author René has been contemplating this book for over fifteen years, and it took him a full seven years to write it.
 
-![Image](images/image41.jpeg)
+![Image](../images/image41.jpeg)
 
 Why did it take so much time to write this book? Because there was no similar book to copy from, ASML has always been a low-key company that doesn't like to advertise.
 
@@ -123,7 +123,7 @@ In 1995, Toshiba, Siemens (later Infineon), and IBM formed an alliance to develo
 
 Coincidentally, Japanese semiconductor manufacturers who persistently adhered to Nikon and Canon experienced a decline lasting for a decade, while three major East Asian manufacturers who bet on ASML quickly rose and dominate the market to this day.
 
-![Image](images/image42.jpeg)
+![Image](../images/image42.jpeg)
 
 Miraculous Watershed: PAS-5500, photo from ASML's official website.
 

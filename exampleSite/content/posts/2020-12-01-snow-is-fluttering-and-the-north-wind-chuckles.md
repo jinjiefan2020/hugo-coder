@@ -11,7 +11,7 @@ tags:
   - "warren-buffett"
 ---
 
-![图片](images/image64.png)
+![图片](../images/image64.png)
 
 On December 3rd, Snowflake, a hot tech company, announced a loss of $1 per share in the last quarter, three times more than what analysts expected. However, Snowflake's stock price surged by 16%, followed by another 14% increase the next day, making it a company with a market value of over $100 billion.
 

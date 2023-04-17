@@ -23,7 +23,7 @@ Although he passed away as a immortal many years ago, his best friend, Oracle Ch
 
 The rebellious and unconventional Ellison, when reflecting on the scene of Jobs' death, emotionally stated, "He had been consumed by cancer, he was just too exhausted and in too much pain. Although he was undoubtedly the strongest person I had ever met, in the end he gave up the fight against death. His decision to stop medication shocked everyone, and three days later the founder passed away."
 
-![图片](images/image60.png)
+![图片](../images/image60.png)
 
 As fellow heroes who share the same beliefs, Ellison once wanted to buy Apple back and return it to Jobs.
 

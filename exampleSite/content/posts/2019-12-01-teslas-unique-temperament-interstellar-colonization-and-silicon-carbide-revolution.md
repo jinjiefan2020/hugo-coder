@@ -10,7 +10,7 @@ tags:
   - "tesla"
 ---
 
-![](images/image34.jpeg)
+![](../images/image34.jpeg)
 
 After watching "Interstellar" several times, I really want to buy Tesla's stock.
 
@@ -74,7 +74,7 @@ Interestingly, many details have been carefully planned on how humans can contin
 
 The oxygen on Earth is said to be produced by algae and various plants. It may not be impossible to replicate this on Mars. In fact, there is much evidence to suggest that there was once life on Mars.
 
-![图片](images/image35.png)
+![图片](../images/image35.png)
 
 (Renovating Mars, Photo: SpaceX)
 
@@ -130,7 +130,7 @@ The massive revolution caused by Tesla is the so-called "software-defined car," 
 
 Tesla's upcoming third-generation hardware will feature an exclusive design for fully autonomous driving chips, with video processing speeds surpassing 2,000 frames per second, and will truly be capable of handling the real-time status of 360-degree surveillance from eight cameras and 12 ultrasonic sensors. This has given Musk the confidence to reject expensive LIDAR technology.
 
-![](images/image36.jpeg)
+![](../images/image36.jpeg)
 
 Real-time tracking of multiple targets for automatic driving, Photo: Tesla.
 
@@ -160,6 +160,6 @@ Imagine if human beings could really turn the red planet Mars into another habit
 
 Just like the great voyages that changed the world 500 years ago, we are fortunate to live in our current time, where we have the opportunity to witness humanity once again embarking on a magnificent journey into the vast expanse of the stars.
 
-![图片](images/image37.png)
+![图片](../images/image37.png)
 
 "Colonizing Mars, Photo: SpaceX"

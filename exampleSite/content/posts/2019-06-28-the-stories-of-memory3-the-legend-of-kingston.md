@@ -73,7 +73,7 @@ Kingston is the earliest company to offer industry compatibility testing. DRAM i
 
 Currently, Kingston's annual turnover reaches up to 7 billion US dollars, and nearly every household has purchased its products.
 
-![图片](images/image31.png)
+![图片](../images/image31.png)
 
 Kingston was a major customer of Infineon at that time. Due to the fact that two of its founders came from Taiwan, the company had a close relationship with Infineon's partner, Mosel Vitelic. I also heard many stories about Kingston in those days.
 

@@ -86,7 +86,7 @@ Starting in 2018, major telecom operators from China, Japan, the United States, 
 
 O-RAN has also partnered with the Linux Foundation to form the O-RAN Software Community, attempting to disrupt the last stronghold of traditional telecom equipment vendors through open source means.
 
-![Image](images/image79.jpeg) Linux基金会号召用开源实现无线通信
+![Image](../images/image79.jpeg) Linux基金会号召用开源实现无线通信
 
 The Linux Foundation calls for using open source to achieve wireless communication.
 
@@ -126,7 +126,7 @@ Many people doubt whether the software-defined paradigm will be successful. Here
 
 The standards for 5G are still evolving. This month, 3GPP is expected to release the 16th edition, which is 5G Phase 2, including standards for IoT, autonomous driving, and many features to improve 5G efficiency.
 
-![Image](images/image80.jpeg)
+![Image](../images/image80.jpeg)
 
 3GPP 5G Standard Timeline.
 

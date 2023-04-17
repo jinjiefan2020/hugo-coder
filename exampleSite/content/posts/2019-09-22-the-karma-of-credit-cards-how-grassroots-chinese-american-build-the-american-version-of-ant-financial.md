@@ -40,7 +40,7 @@ The privacy most cherished by Americans is nonexistent in front of Ken. The reas
 
 How did a simple-looking Chinese-American grassroot person succeed in the American financial technology industry and create an American-style Ant Financial?
 
-![](images/image85.jpeg)
+![](../images/image85.jpeg)
 
 Ken Lin, Credit: Credit Karma
 
@@ -66,7 +66,7 @@ It is precisely for this reason that Hard Pulls in the United States are so prec
 
 This makes it very common for friends in the United States to take advantage of credit card rewards. American Express, which is Warren Buffett's favorite company, is particularly generous in this regard. For example, the Platinum Card provides a beautiful metal card and free access to global airport VIP lounges with a companion. It also automatically extends the warranty for any product you purchase, such as an iPhone, by one year. Within a certain period, if your phone is broken, or if you say it has been lost or stolen, American Express can compensate you.
 
-![](images/image86.jpeg)
+![](../images/image86.jpeg)
 
 Amex Platinum Card, Credit: Amex.
 
@@ -106,7 +106,7 @@ Nichole Mustard is also an absolute grassroots person, with a simple and honest 
 
 Nichole went to Los Angeles alone and started her internship at a Pizza Hut, despite having no acquaintances. She enjoyed interacting with people and eventually, through hard work and certification exams, became a financial planner.
 
-![](images/image87.jpeg)
+![](../images/image87.jpeg)
 
 Nichole Mustard, Credit: Credit Karma
 
@@ -150,7 +150,7 @@ Next, they will try to convince ordinary Americans on their website to enter the
 
 American people who are used to paying for services are very suspicious of this fishing website. Now in China, we also have similar websites for credit checking services, would you dare to use them?
 
-![](images/image88.jpeg)
+![](../images/image88.jpeg)
 
 Credit score on the Credit Karma app.
 
@@ -186,7 +186,7 @@ Today, Credit Karma has become one of the largest loan and credit card referral 
 
 Its commitment to users is: Credit Karma will always be free.
 
-![图片](images/image89.png)
+![图片](../images/image89.png)
 
 The company's several founders still retain a strong grassroots flavor. Credit: Credit Karma.
 

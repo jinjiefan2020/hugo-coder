@@ -54,7 +54,209 @@ The biggest remaining question is whether the sample size of 1.4 billion people 
 
 Without further ado, let us take a look at the rankings.
 
-<table><colgroup><col style="width: 15%"> <col style="width: 43%"> <col style="width: 41%"></colgroup><tbody><tr class="odd"><td>Ranking</td><td>City</td><td>Subscription Ratio</td></tr><tr class="even"><td>1</td><td><p>上海</p><p>Shanghai</p></td><td><p>15.1%</p><p>15.1%</p></td></tr><tr class="odd"><td>2</td><td><p>北京</p><p>Beijing.</p></td><td><p>14.5%</p><p>14.5%.</p></td></tr><tr class="even"><td>3</td><td><p>深圳</p><p>Shenzhen.</p></td><td><p>9.8%</p><p>9.8%</p></td></tr><tr class="odd"><td>4</td><td><p>广州</p><p>Guangzhou</p></td><td><p>3.9%</p><p>3.9%</p></td></tr><tr class="even"><td>5</td><td><p>杭州</p><p>Hangzhou</p></td><td><p>3.3%</p><p>3.3%</p></td></tr><tr class="odd"><td>6</td><td><p>未知</p><p>Unknown.</p></td><td><p>3.1%</p><p>3.1%</p></td></tr><tr class="even"><td>7</td><td><p>成都</p><p>Chengdu</p></td><td><p>2.5%</p><p>2.5%</p></td></tr><tr class="odd"><td>8</td><td><p>武汉</p><p>Wuhan.</p></td><td><p>2.4%</p><p>2.4%</p></td></tr><tr class="even"><td>9</td><td><p>南京</p><p>Nanjing</p></td><td><p>2.3%</p><p>2.3%</p></td></tr><tr class="odd"><td>10</td><td><p>美国华人</p><p>Chinese Americans</p></td><td><p>2.3%</p><p>2.3%</p></td></tr><tr class="even"><td>11</td><td><p>苏州</p><p>Suzhou</p></td><td><p>2.1%</p><p>2.1%</p></td></tr><tr class="odd"><td>12</td><td><p>西安</p><p>Xi'an</p></td><td><p>1.9%</p><p>1.9%</p></td></tr><tr class="even"><td>13</td><td><p>重庆</p><p>Chongqing</p></td><td><p>1.5%</p><p>1.5%</p></td></tr><tr class="odd"><td>14</td><td><p>合肥</p><p>Hefei</p></td><td><p>1.3%</p><p>1.3%</p></td></tr><tr class="even"><td>15</td><td><p>长沙</p><p>Changsha</p></td><td><p>1.1%</p><p>1.1%</p></td></tr><tr class="odd"><td>16</td><td><p>天津</p><p>Tianjin</p></td><td><p>1.1%</p><p>1.1%</p></td></tr><tr class="even"><td>17</td><td><p>东莞</p><p>Dongguan</p></td><td><p>1.0%</p><p>1.0%</p></td></tr><tr class="odd"><td>18</td><td><p>郑州</p><p>Zhengzhou</p></td><td><p>0.9%</p><p>0.9%</p></td></tr><tr class="even"><td>19</td><td><p>济南</p><p>Jinan</p></td><td><p>0.9%</p><p>0.9%</p></td></tr><tr class="odd"><td>20</td><td><p>青岛</p><p>Qingdao</p></td><td><p>0.8%</p><p>0.8%</p></td></tr><tr class="even"><td>21</td><td><p>厦门</p><p>Xiamen</p></td><td><p>0.8%</p><p>0.8%</p></td></tr><tr class="odd"><td>22</td><td><p>无锡</p><p>Wuxi</p></td><td><p>0.8%</p><p>0.8%</p></td></tr><tr class="even"><td>23</td><td><p>佛山</p><p>Foshan</p></td><td><p>0.8%</p><p>0.8%</p></td></tr><tr class="odd"><td>24</td><td><p>福州</p><p>Fuzhou</p></td><td><p>0.6%</p><p>0.6%</p></td></tr><tr class="even"><td>25</td><td><p>石家庄</p><p>Shijiazhuang</p></td><td><p>0.6%</p><p>0.6%</p></td></tr><tr class="odd"><td>26</td><td><p>宁波</p><p>Ningbo</p></td><td><p>0.6%</p><p>0.6%</p></td></tr><tr class="even"><td>27</td><td><p>香港</p><p>Hong Kong</p></td><td><p>0.5%</p><p>0.5 %</p></td></tr><tr class="odd"><td>28</td><td><p>大连</p><p>Dalian</p></td><td><p>0.5%</p><p>0.5%</p></td></tr><tr class="even"><td>29</td><td><p>沈阳</p><p>Shenyang</p></td><td><p>0.5%</p><p>0.5%</p></td></tr><tr class="odd"><td>30</td><td><p>加拿大华人</p><p>Canadian Chinese</p></td><td><p>0.4%</p><p>0.4%</p></td></tr><tr class="even"><td>31</td><td><p>昆明</p><p>Kunming</p></td><td><p>0.4%</p><p>0.4%</p></td></tr><tr class="odd"><td>32</td><td><p>南通</p><p>Nantong</p></td><td><p>0.4%</p><p>0.4%</p></td></tr><tr class="even"><td>33</td><td><p>常州</p><p>Changzhou</p></td><td><p>0.4%</p><p>0.4%</p></td></tr><tr class="odd"><td>34</td><td><p>南宁</p><p>Nanning</p></td><td><p>0.4%</p><p>0.4%</p></td></tr><tr class="even"><td>35</td><td><p>泉州</p><p>Quanzhou</p></td><td><p>0.4%</p><p>0.4%</p></td></tr><tr class="odd"><td>36</td><td><p>珠海</p><p>Zhuhai</p></td><td><p>0.4%</p><p>0.4%</p></td></tr><tr class="even"><td>37</td><td><p>惠州</p><p>Huizhou</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="odd"><td>38</td><td><p>太原</p><p>Taiyuan</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="even"><td>39</td><td><p>长春</p><p>Changchun</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="odd"><td>40</td><td><p>南昌</p><p>Nanchang</p></td><td><p>0.3%</p><p>0.3 %</p></td></tr><tr class="even"><td>41</td><td><p>新加坡华人</p><p>Singaporean Chinese</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="odd"><td>42</td><td><p>烟台</p><p>Yantai</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="even"><td>43</td><td><p>中山</p><p>Zhongshan</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="odd"><td>44</td><td><p>潍坊</p><p>Weifang</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="even"><td>45</td><td><p>金华</p><p>Jinhua</p></td><td><p>0.3%</p><p>0.3 %</p></td></tr><tr class="odd"><td>46</td><td><p>温州</p><p>Wenzhou</p></td><td><p>0.3%</p><p>0.3 %</p></td></tr><tr class="even"><td>47</td><td><p>廊坊</p><p>Langfang</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="odd"><td>48</td><td><p>淄博</p><p>Zibo</p></td><td><p>0.3%</p><p>0.3%</p></td></tr><tr class="even"><td>49</td><td><p>嘉兴</p><p>Jiaxing</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>50</td><td><p>洛阳</p><p>Luoyang</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>51</td><td><p>台州</p><p>Taizhou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>52</td><td><p>徐州</p><p>Xuzhou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>53</td><td><p>澳洲华人</p><p>Australian Chinese.</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>54</td><td><p>海口</p><p>Haikou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>55</td><td><p>贵阳</p><p>Guiyang</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>56</td><td><p>绍兴</p><p>Shaoxing</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>57</td><td><p>乌鲁木齐</p><p>Urumqi.</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>58</td><td><p>扬州</p><p>Yangzhou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>59</td><td><p>保定</p><p>Baoding</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>60</td><td><p>临沂</p><p>Linyi</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>61</td><td><p>德国华人</p><p>German Chinese</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>62</td><td><p>揭阳</p><p>Jieyang</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>63</td><td><p>汕头</p><p>Shantou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>64</td><td><p>荆州</p><p>Jingzhou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>65</td><td><p>襄樊</p><p>Xiangfan</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>66</td><td><p>哈尔滨</p><p>Harbin</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>67</td><td><p>赣州</p><p>Ganzhou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>68</td><td><p>宜昌</p><p>Yichang</p></td><td><p>0.2%</p><p>0.2% (same as original)</p></td></tr><tr class="even"><td>69</td><td><p>株洲</p><p>Zhuzhou</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="odd"><td>70</td><td><p>日本华人</p><p>Chinese people in Japan.</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>71</td><td><p>荷兰华人</p><p>Dutch Chinese</p></td><td><p>0.2%</p><p>0.2%.</p></td></tr><tr class="odd"><td>72</td><td><p>湛江</p><p>Zhanjiang</p></td><td><p>0.2%</p><p>0.2%</p></td></tr><tr class="even"><td>73</td><td><p>黄冈</p><p>Huanggang</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>74</td><td><p>兰州</p><p>Lanzhou</p></td><td><p>0.1%</p><p>0.1 %</p></td></tr><tr class="even"><td>75</td><td><p>柳州</p><p>Liuzhou</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>76</td><td><p>德州</p><p>Texas</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>77</td><td><p>沧州</p><p>Cangzhou</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>78</td><td><p>信阳</p><p>Xinyang</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>79</td><td><p>岳阳</p><p>Yueyang</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>80</td><td><p>英国华人</p><p>British Chinese.</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>81</td><td><p>新乡</p><p>Xinxiang</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>82</td><td><p>梅州</p><p>Meizhou</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>83</td><td><p>唐山</p><p>Tangshan</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>84</td><td><p>漳州</p><p>Zhangzhou.</p></td><td><p>0.1%</p><p>0.1%.</p></td></tr><tr class="even"><td>85</td><td><p>上饶</p><p>Shangrao</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>86</td><td><p>镇江</p><p>Zhenjiang</p></td><td><p>0.1%</p><p>0.1%.</p></td></tr><tr class="even"><td>87</td><td><p>许昌</p><p>Xuchang</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>88</td><td><p>泰安</p><p>Taian</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>89</td><td><p>十堰</p><p>Shiyan</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>90</td><td><p>衡阳</p><p>Hengyang</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>91</td><td><p>南阳</p><p>Nanyang.</p></td><td><p>0.1%</p><p>0.1 %</p></td></tr><tr class="odd"><td>92</td><td><p>枣庄</p><p>Zaozhuang</p></td><td><p>0.1%</p><p>0.1%.</p></td></tr><tr class="even"><td>93</td><td><p>日照</p><p>Sunshine</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>94</td><td><p>焦作</p><p>Jiaozuo</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>95</td><td><p>孝感</p><p>Xiaogan</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>96</td><td><p>遵义</p><p>Zunyi</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>97</td><td><p>呼和浩特</p><p>Hohhot</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="odd"><td>98</td><td><p>宝鸡</p><p>Baoji</p></td><td><p>0.1%</p><p>0.1%</p></td></tr><tr class="even"><td>99</td><td><p>台州</p><p>Taizhou</p></td><td><p>0.1%</p><p>0.1 %.</p></td></tr><tr class="odd"><td>100</td><td><p>东营</p><p>Dongying</p></td><td><p>0.1%</p><p>0.1%</p></td></tr></tbody></table>
+|Ranking|City|Subscription Ratio|
+|:----|:----|:----|
+|1|上海|15.10%|
+| |Shanghai|15.10%|
+|2|北京|14.50%|
+| |Beijing.|14.5%.|
+|3|深圳|9.80%|
+| |Shenzhen.|9.80%|
+|4|广州|3.90%|
+| |Guangzhou|3.90%|
+|5|杭州|3.30%|
+| |Hangzhou|3.30%|
+|6|未知|3.10%|
+| |Unknown.|3.10%|
+|7|成都|2.50%|
+| |Chengdu|2.50%|
+|8|武汉|2.40%|
+| |Wuhan.|2.40%|
+|9|南京|2.30%|
+| |Nanjing|2.30%|
+|10|美国华人|2.30%|
+| |Chinese Americans|2.30%|
+|11|苏州|2.10%|
+| |Suzhou|2.10%|
+|12|西安|1.90%|
+| |Xi'an|1.90%|
+|13|重庆|1.50%|
+| |Chongqing|1.50%|
+|14|合肥|1.30%|
+| |Hefei|1.30%|
+|15|长沙|1.10%|
+| |Changsha|1.10%|
+|16|天津|1.10%|
+| |Tianjin|1.10%|
+|17|东莞|1.00%|
+| |Dongguan|1.00%|
+|18|郑州|0.90%|
+| |Zhengzhou|0.90%|
+|19|济南|0.90%|
+| |Jinan|0.90%|
+|20|青岛|0.80%|
+| |Qingdao|0.80%|
+|21|厦门|0.80%|
+| |Xiamen|0.80%|
+|22|无锡|0.80%|
+| |Wuxi|0.80%|
+|23|佛山|0.80%|
+| |Foshan|0.80%|
+|24|福州|0.60%|
+| |Fuzhou|0.60%|
+|25|石家庄|0.60%|
+| |Shijiazhuang|0.60%|
+|26|宁波|0.60%|
+| |Ningbo|0.60%|
+|27|香港|0.50%|
+| |Hong Kong|0.50%|
+|28|大连|0.50%|
+| |Dalian|0.50%|
+|29|沈阳|0.50%|
+| |Shenyang|0.50%|
+|30|加拿大华人|0.40%|
+| |Canadian Chinese|0.40%|
+|31|昆明|0.40%|
+| |Kunming|0.40%|
+|32|南通|0.40%|
+| |Nantong|0.40%|
+|33|常州|0.40%|
+| |Changzhou|0.40%|
+|34|南宁|0.40%|
+| |Nanning|0.40%|
+|35|泉州|0.40%|
+| |Quanzhou|0.40%|
+|36|珠海|0.40%|
+| |Zhuhai|0.40%|
+|37|惠州|0.30%|
+| |Huizhou|0.30%|
+|38|太原|0.30%|
+| |Taiyuan|0.30%|
+|39|长春|0.30%|
+| |Changchun|0.30%|
+|40|南昌|0.30%|
+| |Nanchang|0.30%|
+|41|新加坡华人|0.30%|
+| |Singaporean Chinese|0.30%|
+|42|烟台|0.30%|
+| |Yantai|0.30%|
+|43|中山|0.30%|
+| |Zhongshan|0.30%|
+|44|潍坊|0.30%|
+| |Weifang|0.30%|
+|45|金华|0.30%|
+| |Jinhua|0.30%|
+|46|温州|0.30%|
+| |Wenzhou|0.30%|
+|47|廊坊|0.30%|
+| |Langfang|0.30%|
+|48|淄博|0.30%|
+| |Zibo|0.30%|
+|49|嘉兴|0.20%|
+| |Jiaxing|0.20%|
+|50|洛阳|0.20%|
+| |Luoyang|0.20%|
+|51|台州|0.20%|
+| |Taizhou|0.20%|
+|52|徐州|0.20%|
+| |Xuzhou|0.20%|
+|53|澳洲华人|0.20%|
+| |Australian Chinese|0.20%|
+|54|海口|0.20%|
+| |Haikou|0.20%|
+|55|贵阳|0.20%|
+| |Guiyang|0.20%|
+|56|绍兴|0.20%|
+| |Shaoxing|0.20%|
+|57|乌鲁木齐|0.20%|
+| |Urumqi.|0.20%|
+|58|扬州|0.20%|
+| |Yangzhou|0.20%|
+|59|保定|0.20%|
+| |Baoding|0.20%|
+|60|临沂|0.20%|
+| |Linyi|0.20%|
+|61|德国华人|0.20%|
+| |German Chinese|0.20%|
+|62|揭阳|0.20%|
+| |Jieyang|0.20%|
+|63|汕头|0.20%|
+| |Shantou|0.20%|
+|64|荆州|0.20%|
+| |Jingzhou|0.20%|
+|65|襄樊|0.20%|
+| |Xiangfan|0.20%|
+|66|哈尔滨|0.20%|
+| |Harbin|0.20%|
+|67|赣州|0.20%|
+| |Ganzhou|0.20%|
+|68|宜昌|0.20%|
+| |Yichang|0.2%|
+|69|株洲|0.20%|
+| |Zhuzhou|0.20%|
+|70|日本华人|0.20%|
+| |Chinese people in Japan.|0.20%|
+|71|荷兰华人|0.20%|
+| |Dutch Chinese|0.2%.|
+|72|湛江|0.20%|
+| |Zhanjiang|0.20%|
+|73|黄冈|0.10%|
+| |Huanggang|0.10%|
+|74|兰州|0.10%|
+| |Lanzhou|0.10%|
+|75|柳州|0.10%|
+| |Liuzhou|0.10%|
+|76|德州|0.10%|
+| |Texas|0.10%|
+|77|沧州|0.10%|
+| |Cangzhou|0.10%|
+|78|信阳|0.10%|
+| |Xinyang|0.10%|
+|79|岳阳|0.10%|
+| |Yueyang|0.10%|
+|80|英国华人|0.10%|
+| |British Chinese.|0.10%|
+|81|新乡|0.10%|
+| |Xinxiang|0.10%|
+|82|梅州|0.10%|
+| |Meizhou|0.10%|
+|83|唐山|0.10%|
+| |Tangshan|0.10%|
+|84|漳州|0.10%|
+| |Zhangzhou.|0.1%.|
+|85|上饶|0.10%|
+| |Shangrao|0.10%|
+|86|镇江|0.10%|
+| |Zhenjiang|0.1%.|
+|87|许昌|0.10%|
+| |Xuchang|0.10%|
+|88|泰安|0.10%|
+| |Taian|0.10%|
+|89|十堰|0.10%|
+| |Shiyan|0.10%|
+|90|衡阳|0.10%|
+| |Hengyang|0.10%|
+|91|南阳|0.10%|
+| |Nanyang.|0.10%|
+|92|枣庄|0.10%|
+| |Zaozhuang|0.1%.|
+|93|日照|0.10%|
+| |Sunshine|0.10%|
+|94|焦作|0.10%|
+| |Jiaozuo|0.10%|
+|95|孝感|0.10%|
+| |Xiaogan|0.10%|
+|96|遵义|0.10%|
+| |Zunyi|0.10%|
+|97|呼和浩特|0.10%|
+| |Hohhot|0.10%|
+|98|宝鸡|0.10%|
+| |Baoji|0.10%|
+|99|台州|0.10%|
+| |Taizhou|0.1 %.|
+|100|东营|0.10%|
+| |Dongying|0.10%|
+
 
 Although there are over 300 cities on the list, I have only listed the top 100 (which account for 91.6%). The remaining approximately 200 prefecture-level cities and 20 countries make up 8.4%, but their rankings are of little significance.
 

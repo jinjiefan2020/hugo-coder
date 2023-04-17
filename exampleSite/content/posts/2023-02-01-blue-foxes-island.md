@@ -35,7 +35,7 @@ However, Peter, who has a high level of scientific literacy, knows that the Eart
 
 Vitus Bering was a Dane whom Peter the Great employed as the leader of the first northern expedition. This team, consisting of only 70 people, set out from Saint Petersburg, crossed mountains and rivers that flowed into the Arctic Ocean, and traversed the entirety of Siberia. The most challenging part was carrying a large amount of food and shipbuilding tools (including anchors, hammers, saws, sails, and even eight ship cannons, each weighing several tons) throughout the thousands of miles, all the way to the town of Oxotck in eastern Russia, where they had to build their ships.
 
-![图片](images/image76.png)
+![图片](../images/image76.png)
 
 The peninsula encircled by the red line in the above picture is called the Kamchatka Peninsula. Because the harsh mountains and rivers in the north cannot be crossed, exploration teams did not know that it was a peninsula.
 

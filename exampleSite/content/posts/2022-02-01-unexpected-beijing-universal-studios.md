@@ -17,7 +17,7 @@ There is a saying in the robotics industry that there are four major families: A
 
 Among these four companies, the one that produces the most stunning and visually appealing products is undoubtedly Germany's KUKA (now under the Midea Group), exuding a sense of luxury and elegance similar to Mercedes-Benz and BMW.
 
-![图片](images/image105.jpeg)
+![图片](../images/image105.jpeg)
 
 (Image source: Official website of KUKA)
 
@@ -45,7 +45,7 @@ Universal Studios has used a massive variety of different building materials, al
 
 To put it simply, when it comes to using metal in global affairs, plastic will not suffice; when it comes to using stainless steel, galvanized pipes will not do; and when it comes to using wood, metal is simply not an option.
 
-![图片](images/image106.png)
+![图片](../images/image106.png)
 
 (The shop where Harry Potter buys his wand)
 
@@ -65,7 +65,7 @@ Arguing about this is indeed boring, experts who see the high specifications of 
 
 The man-made Kunming Lake in the Summer Palace looks very similar to the one in Universal Studios' Jurassic World, which also features a large lake. Interestingly, Universal opted to rename their lake "Empress Dowager Xiao River" to match the one that was designed a hundred years ago by Empress Dowager Cixi during the construction of the Summer Palace. This change was made in a very harmonious way, seamlessly weaving through the scenic area.
 
-![图片](images/image107.jpeg)
+![图片](../images/image107.jpeg)
 
 On the Xiao Taihou River, Global has erected a 6666 auspicious fountain sculpture.
 
@@ -73,7 +73,7 @@ There is a very exciting story in "The Generals of the Yang Family" that tells o
 
 Of course, the various amusement facilities around the world are absolutely not to be underestimated. For example, the KUKA Forbidden Journey seat and the Flying Jurassic seat, which I have calculated to cost approximately one million US dollars per set. In terms of price, waiting in line for half an hour to ride once is still worth it.
 
-![图片](images/image108.png)
+![图片](../images/image108.png)
 
 Canopy Flyer 2.0
 
@@ -93,11 +93,11 @@ Now let's return to engineering construction. Compared to the high-profile of Da
 
 Two Google satellite images show how the Belt and Road Initiative has taken shape from the ground up during the past two years, despite the presence of the pandemic. This can be considered as one of the highest quality construction projects since China's reform and opening up policy.
 
-![图片](images/image109.png)
+![图片](../images/image109.png)
 
 In May 2018, it looked like a sandbox.
 
-![图片](images/image110.png)
+![图片](../images/image110.png)
 
 January 2021 (Xiao Taohou River frozen in white)
 
@@ -107,7 +107,7 @@ According to the information, the peak period of construction saw more than 30,0
 
 ### Seven,
 
-![图片](images/image111.png)
+![图片](../images/image111.png)
 
 Translation: Image source: Universal Studios official website.
 

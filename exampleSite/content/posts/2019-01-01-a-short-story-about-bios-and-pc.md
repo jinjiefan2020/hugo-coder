@@ -15,7 +15,7 @@ tags:
   - "phoenix"
 ---
 
-![图片](images/image56.png)
+![图片](../images/image56.png)
 
 Most of the previous reports by Chinese journalists about Bill Gates were inaccurate. They claimed that he dropped out of school and founded Microsoft after his mother, who was a member of IBM's board of directors, secured a collaboration opportunity for him to develop the operating system for IBM PC. However, Gates actually founded Microsoft in 1975, and the collaboration with IBM did not happen until 1980. Furthermore, Gates' mother was not a member of IBM's board of directors.
 
@@ -43,7 +43,7 @@ BIOS is an assembly program used to arrange power-on self-test and booting to th
 
 At that time, a relatively unknown company called Phoenix Technologies rescued everyone. Phoenix used a reverse engineering method called "clean room", where Group A engineers studied IBM source code to write development requirements and documents, while Group B engineers, who had never seen IBM source code, developed based on the documents provided by Group A. The two groups were separated by a so-called "Chinese wall" to prevent opposing attorneys from using the word "plagiarism". In May 1984, Phoenix released its own BIOS and began licensing it to compatible computer manufacturers, clearing the final obstacle for the compatible computer market.
 
-![图片](images/image57.png)
+![图片](../images/image57.png)
 
 At that time, when AT&T was broken up due to allegations of monopoly, IBM, though unwilling, was afraid of being labeled as a monopolizer, and quickly gave up its crackdown on compatible machines. However, because Phoenix's BIOS was written very well, IBM subsequently handed over the task of writing its own genuine PC BIOS to Phoenix. Until today, the mainstream ThinkPad BIOS is still provided by Phoenix. Some brands, such as Compaq and Toshiba, have their own in-house developed BIOS.
 
@@ -61,7 +61,7 @@ Apart from these two companies, there are multiple other enterprises in the BIOS
 
 Award Software is also one of the earliest independent companies to develop BIOS software. If you have ever built a DIY computer in China, over 80% of you have seen the screen below.
 
-![图片](images/image57.png)
+![图片](../images/image57.png)
 
 Award BIOS is as reliable, easy to use, and affordable as AK47, making it a favorite among Taiwan's motherboard manufacturers. In 1993, the Taiwan-based GCH company, founded by Huang Zhao Feng, acquired Award. In 1996, Award went public on Nasdaq. However, although Award BIOS has a significant share of desktop motherboards, it lacks a large PC brand and notebook product line, making it difficult to increase prices and limiting its profitability. Just over a year after going public, Award was acquired by Phoenix.
 
@@ -85,7 +85,7 @@ In 2010, Phoenix was delisted after being acquired by a private equity fund for 
 
 Today, in the BIOS industry, the three major players are AMI, Insyde, and Phoenix. However, AMI has proclaimed themselves as the number one, which is likely true considering they currently have the largest team (1500 staff, 85% of which are technical personnel) and the founder and CEO who sincerely loves the company.
 
-![图片](images/image57.png)
+![图片](../images/image57.png)
 
 ### Five,
 

@@ -8,7 +8,7 @@ tags:
   - "rambus"
 ---
 
-![](images/image28.jpeg)
+![](../images/image28.jpeg)
 
 In the early 2000s, Intel announced that the new generation of Pentium 4 processors would use Rambus RDRAM to compete with the strong momentum of VIA PC133 and DDR at that time. As a result, Rambus (RMBS) stock price surged from under $20 to $75 in a short amount of time.
 
@@ -40,7 +40,7 @@ In order to beat the aforementioned manufacturers, Intel decided to exclusively 
 
 Although it sounds much faster than the 133MHz clock of DDR266, RDRAM is a serial read-write data with long latency, and its actual memory read-write performance is not much faster than DDR.
 
-![](images/image29.jpeg)
+![](../images/image29.jpeg)
 
 Unfortunately, RDRAM has a high failure rate due to its high frequency and generates a significant amount of heat, requiring the addition of heat sinks, which makes it very expensive. Another unreasonable aspect is that in order for the entire serial channel to be complete, it is necessary to fill all memory slots with RDRAM, resulting in a slot being occupied without a memory chip: C-RIMM.
 
@@ -76,7 +76,7 @@ A patent case is not a war of standard law, and each judge has their own reasoni
 
 Rambus Inc. has managed to survive until today by collecting royalties on patents for DDR and other types of memory. According to the FTC's ruling, it is estimated that 0.25% of the sales revenue for each DDR chip will be paid to Rambus as a copyright fee. Therefore, Samsung is Rambus' biggest customer without question, but Rambus' revenue will fluctuate with changes in memory prices.
 
-![图片](images/image30.png)
+![图片](../images/image30.png)
 
 Screenshot of Rambus financial report, with main revenue coming from licensing fees (orange) and copyright fees (blue), while green represents products such as server memory controllers.
 

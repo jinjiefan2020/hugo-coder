@@ -48,7 +48,7 @@ Regarding internet rankings, Web metrics is a serious field of study, and the pa
 
 The CSIC in Spain provides valuable and noteworthy data. For instance, academic rankings based on Google Scholar's citation count are very objective, so the Top-10 below mostly meets expectations, except for UCSD.
 
-![图片](images/image99.png)
+![图片](../images/image99.png)
 
 It is worth mentioning that the performance of the top two universities in China in this overall academic ranking is still not good: Tsinghua University ranked 112th, and Peking University ranked 199th.
 
@@ -70,4 +70,267 @@ Here are the ranking results. It is worth noting that, unlike other rankings, so
 
 Although you may not have heard of these universities, they are well-known locally. This is a truly unbiased ranking that reflects the global popularity of universities, free of any financial motives.
 
-<table><colgroup><col style="width: 9%"> <col style="width: 21%"> <col style="width: 15%"> <col style="width: 21%"> <col style="width: 8%"> <col style="width: 23%"></colgroup><tbody><tr class="odd"><td>Ranking</td><td>University</td><td>Country and region</td><td>Traffic Score</td><td>Design Score</td><td>Total Score</td></tr><tr class="even"><td>1</td><td><p>哈佛大学</p><p>Harvard University</p></td><td><p>美国</p><p>USA</p></td><td><p>195.40</p><p>195.40</p></td><td>8</td><td><p>203.40</p><p>203.40</p></td></tr><tr class="odd"><td>2</td><td><p>麻省理工学院</p><p>Massachusetts Institute of Technology</p></td><td><p>美国</p><p>United States</p></td><td><p>151.70</p><p>151.70</p></td><td>5</td><td><p>156.70</p><p>156.70</p></td></tr><tr class="even"><td>3</td><td><p>斯坦福大学</p><p>Stanford University</p></td><td><p>美国</p><p>United States</p></td><td><p>112.00</p><p>112.00</p></td><td>7</td><td><p>119.00</p><p>119.00</p></td></tr><tr class="odd"><td>4</td><td><p>墨西哥国立自治大学</p><p>National Autonomous University of Mexico</p></td><td><p>墨西哥</p><p>Mexico</p></td><td><p>93.68</p><p>93.68</p></td><td>6</td><td><p>99.68</p><p>99.68</p></td></tr><tr class="even"><td>5</td><td><p>宾州大学</p><p>Pennsylvania State University</p></td><td><p>美国</p><p>United States</p></td><td><p>84.78</p><p>84.78</p></td><td>4</td><td><p>88.78</p><p>88.78</p></td></tr><tr class="odd"><td>6</td><td><p>圣保罗大学</p><p>University of São Paulo</p></td><td><p>巴西</p><p>Brazil</p></td><td><p>79.37</p><p>79.37</p></td><td>7</td><td><p>86.37</p><p>86.37</p></td></tr><tr class="even"><td>7</td><td><p>康奈尔大学</p><p>Cornell University.</p></td><td><p>美国</p><p>United States</p></td><td><p>76.04</p><p>76.04</p></td><td>7</td><td><p>83.04</p><p>83.04</p></td></tr><tr class="odd"><td>8</td><td><p>加州大学伯克利分校</p><p>University of California, Berkeley</p></td><td><p>美国</p><p>United States</p></td><td><p>62.02</p><p>62.02</p></td><td>6</td><td><p>68.02</p><p>68.02</p></td></tr><tr class="even"><td>9</td><td><p>密歇根大学</p><p>University of Michigan.</p></td><td><p>美国</p><p>United States</p></td><td><p>49.64</p><p>49.64</p></td><td>6</td><td><p>55.64</p><p>55.64</p></td></tr><tr class="odd"><td>10</td><td><p>威斯康星大学</p><p>University of Wisconsin</p></td><td><p>美国</p><p>United States</p></td><td><p>46.67</p><p>46.67</p></td><td>6</td><td><p>52.67</p><p>52.67</p></td></tr><tr class="even"><td>11</td><td><p>哥伦比亚大学</p><p>Columbia University</p></td><td><p>美国</p><p>United States.</p></td><td><p>46.06</p><p>46.06</p></td><td>6</td><td><p>52.06</p><p>52.06</p></td></tr><tr class="odd"><td>12</td><td><p>华盛顿大学</p><p>University of Washington</p></td><td><p>美国</p><p>United States</p></td><td><p>42.20</p><p>42.20</p></td><td>6</td><td><p>48.20</p><p>48.20</p></td></tr><tr class="even"><td>13</td><td><p>牛津大学</p><p>University of Oxford.</p></td><td><p>英国</p><p>United Kingdom</p></td><td><p>41.58</p><p>41.58</p></td><td>6</td><td><p>47.58</p><p>47.58</p></td></tr><tr class="odd"><td>14</td><td><p>普度大学</p><p>Pudu University</p></td><td><p>美国</p><p>United States</p></td><td><p>41.39</p><p>41.39</p></td><td>6</td><td><p>47.39</p><p>47.39</p></td></tr><tr class="even"><td>15</td><td><p>宾夕法尼亚大学</p><p>University of Pennsylvania</p></td><td><p>美国</p><p>United States</p></td><td><p>38.97</p><p>38.97</p></td><td>6</td><td><p>44.97</p><p>44.97</p></td></tr><tr class="odd"><td>16</td><td><p>得克萨斯大学</p><p>University of Texas</p></td><td><p>美国</p><p>United States</p></td><td><p>35.69</p><p>35.69</p></td><td>7</td><td><p>42.69</p><p>42.69</p></td></tr><tr class="even"><td>17</td><td><p>加州大学洛杉矶分校</p><p>University of California, Los Angeles</p></td><td><p>美国</p><p>United States</p></td><td><p>38.77</p><p>38.77</p></td><td>3</td><td><p>41.77</p><p>41.77</p></td></tr><tr class="odd"><td>18</td><td><p>普林斯顿大学</p><p>Princeton University.</p></td><td><p>美国</p><p>United States</p></td><td><p>35.68</p><p>35.68</p></td><td>6</td><td><p>41.68</p><p>41.68</p></td></tr><tr class="even"><td>19</td><td><p>耶鲁大学</p><p>Yale University</p></td><td><p>美国</p><p>United States</p></td><td><p>34.95</p><p>34.95</p></td><td>6</td><td><p>40.95</p><p>40.95</p></td></tr><tr class="odd"><td>20</td><td><p>明尼苏达大学</p><p>University of Minnesota</p></td><td><p>美国</p><p>United States</p></td><td><p>35.83</p><p>35.83</p></td><td>5</td><td><p>40.83</p><p>40.83</p></td></tr><tr class="even"><td>21</td><td><p>卡内基梅隆大学</p><p>Carnegie Mellon University</p></td><td><p>美国</p><p>United States.</p></td><td><p>34.00</p><p>34.00</p></td><td>6</td><td><p>40.00</p><p>40.00</p></td></tr><tr class="odd"><td>22</td><td><p>伊利诺伊大学</p><p>University of Illinois</p></td><td><p>美国</p><p>United States</p></td><td><p>34.46</p><p>34.46</p></td><td>4</td><td><p>38.46</p><p>38.46</p></td></tr><tr class="even"><td>23</td><td><p>剑桥大学</p><p>University of Cambridge</p></td><td><p>英国</p><p>England</p></td><td><p>33.16</p><p>33.16</p></td><td>6</td><td><p>39.16</p><p>39.16</p></td></tr><tr class="odd"><td>24</td><td><p>安纳托鲁大学</p><p>Anatolu University</p></td><td><p>土耳其</p><p>Turkey</p></td><td><p>31.82</p><p>31.82</p></td><td>6</td><td><p>37.82</p><p>37.82</p></td></tr><tr class="even"><td>25</td><td><p>纽约大学</p><p>New York University</p></td><td><p>美国</p><p>United States</p></td><td><p>33.81</p><p>33.81</p></td><td>3</td><td><p>36.81</p><p>36.81</p></td></tr><tr class="odd"><td>26</td><td><p>佛罗里达大学</p><p>University of Florida</p></td><td><p>美国</p><p>United States</p></td><td><p>31.04</p><p>31.04</p></td><td>5</td><td><p>36.04</p><p>36.04</p></td></tr><tr class="even"><td>27</td><td><p>不列颠哥伦比亚大学</p><p>University of British Columbia</p></td><td><p>加拿大</p><p>Canada</p></td><td><p>29.70</p><p>29.70</p></td><td>6</td><td><p>35.70</p><p>35.70</p></td></tr><tr class="odd"><td>28</td><td><p>南加州大学</p><p>University of Southern California</p></td><td><p>美国</p><p>United States</p></td><td><p>31.08</p><p>31.08</p></td><td>3</td><td><p>34.08</p><p>34.08</p></td></tr><tr class="even"><td>29</td><td><p>南大河州联邦大学</p><p>Nandahezhou Federal University.</p></td><td><p>巴西</p><p>Brazil</p></td><td><p>29.92</p><p>29.92</p></td><td>4</td><td><p>33.92</p><p>33.92</p></td></tr><tr class="odd"><td>30</td><td><p>智利大学</p><p>University of Chile</p></td><td><p>智利</p><p>Chile</p></td><td><p>28.71</p><p>28.71</p></td><td>5</td><td><p>33.71</p><p>33.71</p></td></tr><tr class="even"><td>31</td><td><p>加州大学圣迭戈分校</p><p>University of California, San Diego</p></td><td><p>美国</p><p>United States</p></td><td><p>28.66</p><p>28.66</p></td><td>5</td><td><p>33.66</p><p>33.66</p></td></tr><tr class="odd"><td>32</td><td><p>芝加哥大学</p><p>University of Chicago</p></td><td><p>美国</p><p>United States of America</p></td><td><p>27.62</p><p>27.62</p></td><td>6</td><td><p>33.62</p><p>33.62</p></td></tr><tr class="even"><td>33</td><td><p>多伦多大学</p><p>University of Toronto</p></td><td><p>加拿大</p><p>Canada</p></td><td><p>27.21</p><p>27.21</p></td><td>6</td><td><p>33.21</p><p>33.21</p></td></tr><tr class="odd"><td>34</td><td><p>密歇根州立大学</p><p>Michigan State University</p></td><td><p>美国</p><p>United States</p></td><td><p>28.13</p><p>28.13</p></td><td>5</td><td><p>33.13</p><p>33.13</p></td></tr><tr class="even"><td>35</td><td><p>波士顿大学</p><p>Boston University</p></td><td><p>美国</p><p>United States of America.</p></td><td><p>26.68</p><p>26.68</p></td><td>6</td><td><p>32.68</p><p>32.68</p></td></tr><tr class="odd"><td>36</td><td><p>亚利桑那州立大学</p><p>Arizona State University</p></td><td><p>美国</p><p>United States</p></td><td><p>27.46</p><p>27.46</p></td><td>5</td><td><p>32.46</p><p>32.46</p></td></tr><tr class="even"><td>37</td><td><p>约翰霍普金斯大学</p><p>Johns Hopkins University</p></td><td><p>美国</p><p>United States</p></td><td><p>24.41</p><p>24.41</p></td><td>8</td><td><p>32.41</p><p>32.41</p></td></tr><tr class="odd"><td>38</td><td><p>北卡大学教堂山分校</p><p>University of North Carolina at Chapel Hill</p></td><td><p>美国</p><p>United States</p></td><td><p>26.17</p><p>26.17</p></td><td>6</td><td><p>32.17</p><p>32.17</p></td></tr><tr class="even"><td>39</td><td><p>犹他大学</p><p>Utah State University</p></td><td><p>美国</p><p>United States</p></td><td><p>27.75</p><p>27.75</p></td><td>4</td><td><p>31.75</p><p>31.75</p></td></tr><tr class="odd"><td>40</td><td><p>伦敦大学学院</p><p>University College London</p></td><td><p>英国</p><p>United Kingdom</p></td><td><p>24.20</p><p>24.20</p></td><td>6</td><td><p>30.20</p><p>30.20</p></td></tr><tr class="even"><td>41</td><td><p>加州大学尔湾分校</p><p>University of California, Irvine</p></td><td><p>美国</p><p>United States</p></td><td><p>22.86</p><p>22.86</p></td><td>7</td><td><p>29.86</p><p>29.86</p></td></tr><tr class="odd"><td>42</td><td><p>杜克大学</p><p>Duke University</p></td><td><p>美国</p><p>United States</p></td><td><p>22.57</p><p>22.57</p></td><td>7</td><td><p>29.57</p><p>29.57</p></td></tr><tr class="even"><td>43</td><td><p>西北大学</p><p>Northwest University</p></td><td><p>美国</p><p>United States</p></td><td><p>23.29</p><p>23.29</p></td><td>6</td><td><p>29.29</p><p>29.29</p></td></tr><tr class="odd"><td>44</td><td><p>圣卡塔琳娜州联邦大学</p><p>Santa Catarina Federal University</p></td><td><p>巴西</p><p>Brazil</p></td><td><p>25.94</p><p>25.94</p></td><td>3</td><td><p>28.94</p><p>28.94</p></td></tr><tr class="even"><td>45</td><td><p>德州农工大学</p><p>Texas A&amp;M University</p></td><td><p>美国</p><p>United States</p></td><td><p>23.94</p><p>23.94</p></td><td>5</td><td><p>28.94</p><p>28.94</p></td></tr><tr class="odd"><td>46</td><td><p>印尼安纳大学</p><p>University of Indonesia</p></td><td><p>美国</p><p>United States</p></td><td><p>22.84</p><p>22.84</p></td><td>6</td><td><p>28.84</p><p>28.84</p></td></tr><tr class="even"><td>47</td><td><p>加州理工学院</p><p>California Institute of Technology</p></td><td><p>美国</p><p>United States</p></td><td><p>22.69</p><p>22.69</p></td><td>6</td><td><p>28.69</p><p>28.69</p></td></tr><tr class="odd"><td>48</td><td><p>苏黎世联邦理工学院</p><p>Swiss Federal Institute of Technology Zurich</p></td><td><p>瑞士</p><p>Switzerland</p></td><td><p>25.47</p><p>25.47</p></td><td>3</td><td><p>28.47</p><p>28.47</p></td></tr><tr class="even"><td>49</td><td><p>纽约城市大学</p><p>City University of New York (CUNY)</p></td><td><p>美国</p><p>United States</p></td><td><p>21.77</p><p>21.77</p></td><td>6</td><td><p>27.77</p><p>27.77</p></td></tr><tr class="odd"><td>50</td><td><p>加州大学戴维斯分校</p><p>University of California, Davis</p></td><td><p>美国</p><p>United States</p></td><td><p>21.40</p><p>21.40</p></td><td>6</td><td><p>27.40</p><p>27.40</p></td></tr><tr class="even"><td>51</td><td><p>布宜诺斯艾利斯大学</p><p>University of Buenos Aires</p></td><td><p>阿根廷</p><p>Argentina</p></td><td><p>26.37</p><p>26.37</p></td><td>1</td><td><p>27.37</p><p>27.37</p></td></tr><tr class="odd"><td>52</td><td><p>马里兰大学</p><p>University of Maryland</p></td><td><p>美国</p><p>United States</p></td><td><p>19.97</p><p>19.97</p></td><td>7</td><td><p>26.97</p><p>26.97</p></td></tr><tr class="even"><td>53</td><td><p>罗切斯特大学</p><p>Rochester University</p></td><td><p>美国</p><p>United States</p></td><td><p>23.81</p><p>23.81</p></td><td>3</td><td><p>26.81</p><p>26.81</p></td></tr><tr class="odd"><td>54</td><td><p>加查马达大学</p><p>Jigme Namgyel Engineering College</p></td><td><p>印度尼西亚</p><p>Indonesia</p></td><td><p>19.71</p><p>19.71</p></td><td>7</td><td><p>26.71</p><p>26.71</p></td></tr><tr class="even"><td>55</td><td><p>俄亥俄州立大学</p><p>Ohio State University</p></td><td><p>美国</p><p>United States</p></td><td><p>21.23</p><p>21.23</p></td><td>5</td><td><p>26.23</p><p>26.23</p></td></tr><tr class="odd"><td>56</td><td><p>台湾大学</p><p>National Taiwan University</p></td><td><p>中国台湾</p><p>Taiwan, China</p></td><td><p>23.80</p><p>23.80</p></td><td>2</td><td><p>25.80</p><p>25.80</p></td></tr><tr class="even"><td>57</td><td><p>哥伦比亚国立大学</p><p>National University of Colombia</p></td><td><p>哥伦比亚</p><p>Colombia</p></td><td><p>20.34</p><p>20.34</p></td><td>5</td><td><p>25.34</p><p>25.34</p></td></tr><tr class="odd"><td>58</td><td><p>亚利桑那大学</p><p>Arizona State University</p></td><td><p>美国</p><p>United States</p></td><td><p>18.72</p><p>18.72</p></td><td>6</td><td><p>24.72</p><p>24.72</p></td></tr><tr class="even"><td>59</td><td><p>爱丁堡大学</p><p>The University of Edinburgh.</p></td><td><p>英国</p><p>United Kingdom</p></td><td><p>19.57</p><p>19.57</p></td><td>5</td><td><p>24.57</p><p>24.57</p></td></tr><tr class="odd"><td>60</td><td><p>科罗拉多大学</p><p>University of Colorado</p></td><td><p>美国</p><p>United States</p></td><td><p>19.49</p><p>19.49</p></td><td>5</td><td><p>24.49</p><p>24.49</p></td></tr><tr class="even"><td>61</td><td><p>西部州长大学</p><p>Western Governors University</p></td><td><p>美国</p><p>United States</p></td><td><p>19.34</p><p>19.34</p></td><td>5</td><td><p>24.34</p><p>24.34</p></td></tr><tr class="odd"><td>62</td><td><p>弗吉尼亚大学</p><p>University of Virginia</p></td><td><p>美国</p><p>United States</p></td><td><p>18.98</p><p>18.98</p></td><td>5</td><td><p>23.98</p><p>23.98</p></td></tr><tr class="even"><td>63</td><td><p>东京大学</p><p>The University of Tokyo</p></td><td><p>日本</p><p>Japan</p></td><td><p>16.77</p><p>16.77</p></td><td>7</td><td><p>23.77</p><p>23.77</p></td></tr><tr class="odd"><td>64</td><td><p>清华大学</p><p>Tsinghua University</p></td><td><p>中国</p><p>China</p></td><td><p>20.76</p><p>20.76</p></td><td>3</td><td><p>23.76</p><p>23.76</p></td></tr><tr class="even"><td>65</td><td><p>佐治亚州立大学</p><p>Georgia State University</p></td><td><p>美国</p><p>United States</p></td><td><p>18.55</p><p>18.55</p></td><td>5</td><td><p>23.55</p><p>23.55</p></td></tr><tr class="odd"><td>66</td><td><p>米纳斯联邦大学</p><p>Universidade Federal de Minas Gerais (Federal University of Minas Gerais)</p></td><td><p>巴西</p><p>Brazil</p></td><td><p>18.29</p><p>18.29</p></td><td>5</td><td><p>23.29</p><p>23.29</p></td></tr><tr class="even"><td>67</td><td><p>庆应大学</p><p>Keio University</p></td><td><p>日本</p><p>Japan</p></td><td><p>14.78</p><p>14.78</p></td><td>8</td><td><p>22.78</p><p>22.78</p></td></tr><tr class="odd"><td>68</td><td><p>印度尼西亚大学</p><p>Universitas Indonesia</p></td><td><p>印度尼西亚</p><p>Indonesia</p></td><td><p>17.69</p><p>17.69</p></td><td>5</td><td><p>22.69</p><p>22.69</p></td></tr><tr class="even"><td>69</td><td><p>罗格斯大学</p><p>Rutgers University</p></td><td><p>美国</p><p>United States</p></td><td><p>17.51</p><p>17.51</p></td><td>5</td><td><p>22.51</p><p>22.51</p></td></tr><tr class="odd"><td>70</td><td><p>麦吉尔大学</p><p>McGill University</p></td><td><p>加拿大</p><p>Canada</p></td><td><p>19.41</p><p>19.41</p></td><td>3</td><td><p>22.41</p><p>22.41</p></td></tr><tr class="even"><td>71</td><td><p>加州大学旧金山分校</p><p>University of California, San Francisco</p></td><td><p>美国</p><p>United States.</p></td><td><p>17.38</p><p>17.38</p></td><td>5</td><td><p>22.38</p><p>22.38</p></td></tr><tr class="odd"><td>72</td><td><p>英迪拉甘地大学</p><p>Indira Gandhi University</p></td><td><p>印度</p><p>India</p></td><td><p>19.18</p><p>19.18</p></td><td>3</td><td><p>22.18</p><p>22.18</p></td></tr><tr class="even"><td>73</td><td><p>巴塞罗那大学</p><p>Barcelona University</p></td><td><p>西班牙</p><p>Spain</p></td><td><p>19.16</p><p>19.16</p></td><td>3</td><td><p>22.16</p><p>22.16</p></td></tr><tr class="odd"><td>74</td><td><p>圣保罗州立大学</p><p>Sao Paulo State University</p></td><td><p>巴西</p><p>Brazil</p></td><td><p>17</p><p>17</p></td><td>5</td><td><p>22.00</p><p>22:00</p></td></tr><tr class="even"><td>75</td><td><p>里约联邦大学</p><p>Federal University of Rio de Janeiro</p></td><td><p>巴西</p><p>Brazil</p></td><td><p>18.60</p><p>18.60</p></td><td>3</td><td><p>21.60</p><p>21.60</p></td></tr><tr class="odd"><td>76</td><td><p>匹兹堡大学</p><p>University of Pittsburgh</p></td><td><p>美国</p><p>United States</p></td><td><p>17.10</p><p>17.10</p></td><td>4</td><td><p>21.10</p><p>21.10 is a numerical representation of a date or time. It can be interpreted as October 21st or 10:10pm.</p></td></tr><tr class="even"><td>77</td><td><p>墨尔本大学</p><p>University of Melbourne</p></td><td><p>澳大利亚</p><p>Australia</p></td><td><p>15.04</p><p>15th of April</p></td><td>6</td><td><p>21.04</p><p>21.04 (same in English)</p></td></tr><tr class="odd"><td>78</td><td><p>新加坡大学</p><p>National University of Singapore</p></td><td><p>新加坡</p><p>Singapore</p></td><td><p>14.98</p><p>14.98</p></td><td>6</td><td><p>20.98</p><p>20.98</p></td></tr><tr class="even"><td>79</td><td><p>佐治亚理工学院</p><p>Georgia Institute of Technology</p></td><td><p>美国</p><p>United States</p></td><td><p>15.79</p><p>15.79</p></td><td>5</td><td><p>20.79</p><p>20.79</p></td></tr><tr class="odd"><td>80</td><td><p>德里大学</p><p>University of Delhi</p></td><td><p>印度</p><p>India</p></td><td><p>18.77</p><p>18.77</p></td><td>2</td><td><p>20.77</p><p>20.77</p></td></tr><tr class="even"><td>81</td><td><p>夏威夷大学</p><p>University of Hawaii</p></td><td><p>美国</p><p>United States</p></td><td><p>15.55</p><p>15.55</p></td><td>5</td><td><p>20.55</p><p>20.55</p></td></tr><tr class="odd"><td>82</td><td><p>博洛尼亚大学</p><p>University of Bologna</p></td><td><p>意大利</p><p>Italy.</p></td><td><p>14.53</p><p>14.53</p></td><td>6</td><td><p>20.53</p><p>20.53</p></td></tr><tr class="even"><td>83</td><td><p>香港中文大学</p><p>The Chinese University of Hong Kong.</p></td><td><p>中国香港</p><p>Hong Kong, China</p></td><td><p>16.70</p><p>16.70</p></td><td>3</td><td><p>19.70</p><p>19.70</p></td></tr><tr class="odd"><td>84</td><td><p>莫斯科大学</p><p>Moscow University</p></td><td><p>俄罗斯</p><p>Russia</p></td><td><p>16.54</p><p>16.54</p></td><td>3</td><td><p>19.54</p><p>19.54</p></td></tr><tr class="even"><td>85</td><td><p>滑铁卢大学</p><p>University of Waterloo.</p></td><td><p>加拿大</p><p>Canada</p></td><td><p>14.48</p><p>14.48</p></td><td>5</td><td><p>19.48</p><p>19.48</p></td></tr><tr class="odd"><td>86</td><td><p>弗吉尼亚理工学院</p><p>Virginia Polytechnic Institute and State University</p></td><td><p>美国</p><p>United States</p></td><td><p>14.34</p><p>14.34</p></td><td>5</td><td><p>19.34</p><p>19.34</p></td></tr><tr class="even"><td>87</td><td><p>南洋理工大学</p><p>Nanyang Technological University.</p></td><td><p>新加坡</p><p>Singapore</p></td><td><p>13.03</p><p>This is a date in the format of DD.MM.</p></td><td>6</td><td><p>19.03</p><p>19.03</p></td></tr><tr class="odd"><td>88</td><td><p>新南威尔士大学</p><p>The University of New South Wales</p></td><td><p>澳大利亚</p><p>Australia</p></td><td><p>15.80</p><p>15.80</p></td><td>3</td><td><p>18.80</p><p>18.80</p></td></tr><tr class="even"><td>89</td><td><p>保利斯塔大学</p><p>Polytechnic University of Bari</p></td><td><p>巴西</p><p>Brazil</p></td><td><p>17.67</p><p>17.67</p></td><td>1</td><td><p>18.67</p><p>18.67</p></td></tr><tr class="odd"><td>90</td><td><p>莫那什大学</p><p>Mona University</p></td><td><p>澳大利亚</p><p>Australia</p></td><td><p>12.49</p><p>12.49</p></td><td>6</td><td><p>18.49</p><p>18.49</p></td></tr><tr class="even"><td>91</td><td><p>柏林大学</p><p>Berlin University</p></td><td><p>德国</p><p>Germany</p></td><td><p>11.43</p><p>11.43 is already in English and it is the numerical representation of the time 11:43.</p></td><td>7</td><td><p>18.43</p><p>18.43</p></td></tr><tr class="odd"><td>92</td><td><p>京都大学</p><p>Kyoto University</p></td><td><p>日本</p><p>Japan</p></td><td><p>12.41</p><p>12.41</p></td><td>6</td><td><p>18.41</p><p>18.41</p></td></tr><tr class="even"><td>93</td><td><p>西门菲莎大学</p><p>York University</p></td><td><p>加拿大</p><p>Canada</p></td><td><p>11.35</p><p>11.35</p></td><td>7</td><td><p>18.35</p><p>18.35</p></td></tr><tr class="odd"><td>94</td><td><p>维也纳大学</p><p>University of Vienna</p></td><td><p>奥地利</p><p>Austria</p></td><td><p>11.12</p><p>11.12</p></td><td>7</td><td><p>18.12</p><p>18.12</p></td></tr><tr class="even"><td>95</td><td><p>慕尼黑大学</p><p>University of Munich</p></td><td><p>德国</p><p>Germany</p></td><td><p>14.04</p><p>14.04</p></td><td>4</td><td><p>18.04</p><p>18th of April.</p></td></tr><tr class="odd"><td>96</td><td><p>海德堡大学</p><p>Heidelberg University.</p></td><td><p>德国</p><p>Germany</p></td><td><p>11.00</p><p>11.00</p></td><td>7</td><td><p>18.00</p><p>18.00</p></td></tr><tr class="even"><td>97</td><td><p>瓜达拉哈拉大学</p><p>University of Guadalajara</p></td><td><p>墨西哥</p><p>Mexico</p></td><td><p>13.98</p><p>13.98</p></td><td>4</td><td><p>17.98</p><p>17.98</p></td></tr><tr class="odd"><td>98</td><td><p>帝国理工大学</p><p>Imperial College London</p></td><td><p>英国</p><p>UK</p></td><td><p>12.15</p><p>12.15</p></td><td>5</td><td><p>17.15</p><p>17.15</p></td></tr><tr class="even"><td>99</td><td><p>慕尼黑技术大学</p><p>Technical University of Munich</p></td><td><p>德国</p><p>Germany</p></td><td><p>12.07</p><p>12.07</p></td><td>5</td><td><p>17.07</p><p>17.07</p></td></tr><tr class="odd"><td>100</td><td><p>华威大学</p><p>University of Warwick</p></td><td><p>英国</p><p>England</p></td><td><p>11.82</p><p>11.82</p></td><td>5</td><td><p>16.82</p><p>16.82</p></td></tr><tr class="even"><td>101</td><td><p>奥斯陆大学</p><p>University of Oslo</p></td><td><p>挪威</p><p>Norway</p></td><td><p>13.60</p><p>13.60</p></td><td>3</td><td><p>16.60</p><p>16.60</p></td></tr><tr class="odd"><td>102</td><td><p>汉堡大学</p><p>Hamburg University</p></td><td><p>德国</p><p>Germany</p></td><td><p>9.19</p><p>9.19</p></td><td>7</td><td><p>16.19</p><p>16.19</p></td></tr><tr class="even"><td>103</td><td><p>代尔夫特理工大学</p><p>Delft University of Technology</p></td><td><p>荷兰</p><p>Netherlands</p></td><td><p>9.07</p><p>9.07</p></td><td>7</td><td><p>16.07</p><p>16.07</p></td></tr><tr class="odd"><td>104</td><td><p>阿姆斯特丹大学</p><p>University of Amsterdam</p></td><td><p>荷兰</p><p>Netherlands</p></td><td><p>9.87</p><p>9.87</p></td><td>6</td><td><p>15.87</p><p>15.87.</p></td></tr><tr class="even"><td>105</td><td><p>北京大学</p><p>Peking University</p></td><td><p>中国</p><p>China</p></td><td><p>13.83</p><p>13.83</p></td><td>2</td><td><p>15.83</p><p>15.83</p></td></tr><tr class="odd"><td>106</td><td><p>凤凰城大学</p><p>Phoenix University</p></td><td><p>美国</p><p>United States</p></td><td><p>12.71</p><p>12.71</p></td><td>3</td><td><p>15.71</p><p>15.71</p></td></tr><tr class="even"><td>107</td><td><p>鲁汶大学</p><p>KU Leuven</p></td><td><p>比利时</p><p>Belgium</p></td><td><p>9.68</p><p>9.68</p></td><td>6</td><td><p>15.68</p><p>15.68</p></td></tr><tr class="odd"><td>108</td><td><p>乌特勒支大学</p><p>Utrecht University</p></td><td><p>荷兰</p><p>Netherlands</p></td><td><p>9.57</p><p>9.57</p></td><td>6</td><td><p>15.57</p><p>15.57</p></td></tr><tr class="even"><td>109</td><td><p>悉尼大学</p><p>The University of Sydney</p></td><td><p>澳大利亚</p><p>Australia</p></td><td><p>10.40</p><p>10:40</p></td><td>5</td><td><p>15.40</p><p>15.40</p></td></tr><tr class="odd"><td>110</td><td><p>上海交通大学</p><p>Shanghai Jiao Tong University</p></td><td><p>中国</p><p>China</p></td><td><p>12.20</p><p>12.20</p></td><td>3</td><td><p>15.20</p><p>15.20</p></td></tr><tr class="even"><td>111</td><td><p>香港大学</p><p>The University of Hong Kong.</p></td><td><p>中国香港</p><p>Hong Kong, China</p></td><td><p>12.09</p><p>12.09</p></td><td>3</td><td><p>15.09</p><p>15th of September</p></td></tr><tr class="odd"><td>112</td><td><p>格罗宁根大学</p><p>University of Groningen</p></td><td><p>荷兰</p><p>Netherlands</p></td><td><p>9.07</p><p>9.07</p></td><td>6</td><td><p>15.07</p><p>15th of July</p></td></tr><tr class="even"><td>113</td><td><p>哥本哈根大学</p><p>University of Copenhagen</p></td><td><p>丹麦</p><p>Denmark</p></td><td><p>8.06</p><p>8.06</p></td><td>7</td><td><p>15.06</p><p>15.06</p></td></tr><tr class="odd"><td>114</td><td><p>日内瓦大学</p><p>University of Geneva</p></td><td><p>瑞士</p><p>Switzerland.</p></td><td><p>8.95</p><p>8.95</p></td><td>6</td><td><p>14.95</p><p>14.95</p></td></tr><tr class="even"><td>115</td><td><p>浙江大学</p><p>Zhejiang University.</p></td><td><p>中国</p><p>China</p></td><td><p>12.94</p><p>12.94</p></td><td>2</td><td><p>14.94</p><p>14.94</p></td></tr><tr class="odd"><td>116</td><td><p>赫尔辛基大学</p><p>University of Helsinki.</p></td><td><p>芬兰</p><p>Finland</p></td><td><p>9.78</p><p>9.78</p></td><td>5</td><td><p>14.78</p><p>14.78</p></td></tr><tr class="even"><td>117</td><td><p>南非大学</p><p>South African university.</p></td><td><p>南非</p><p>South Africa</p></td><td><p>9.59</p><p>9.59</p></td><td>5</td><td><p>14.59</p><p>14.59</p></td></tr><tr class="odd"><td>118</td><td><p>跟特大学</p><p>Ghent University</p></td><td><p>比利时</p><p>Belgium</p></td><td><p>9.33</p><p>9.33</p></td><td>5</td><td><p>14.33</p><p>14.33</p></td></tr><tr class="even"><td>119</td><td><p>罗马大学</p><p>Roman University</p></td><td><p>意大利</p><p>Italy</p></td><td><p>8.31</p><p>8.31</p></td><td>6</td><td><p>14.31</p><p>14.31</p></td></tr><tr class="odd"><td>120</td><td><p>印度理工学院孟买分校</p><p>Indian Institute of Technology Bombay</p></td><td><p>印度</p><p>India</p></td><td><p>8.03</p><p>8.03</p></td><td>6</td><td><p>14.03</p><p>14th of March</p></td></tr><tr class="even"><td>121</td><td><p>苏黎世大学</p><p>University of Zurich</p></td><td><p>瑞士</p><p>Switzerland</p></td><td><p>9.06</p><p>9.06</p></td><td>4</td><td><p>13.06</p><p>13.06</p></td></tr><tr class="odd"><td>122</td><td><p>开普敦大学</p><p>University of Cape Town</p></td><td><p>南非</p><p>South Africa.</p></td><td><p>7.06</p><p>7.06</p></td><td>6</td><td><p>13.06</p><p>13.06</p></td></tr><tr class="even"><td>123</td><td><p>特拉维夫大学</p><p>Tel Aviv University</p></td><td><p>以色列</p><p>Israel</p></td><td><p>8.01</p><p>8.01</p></td><td>5</td><td><p>13.01</p><p>13.01</p></td></tr><tr class="odd"><td>124</td><td><p>香港科技大学</p><p>Hong Kong University of Science and Technology</p></td><td><p>中国香港</p><p>Hong Kong, China</p></td><td><p>5.66</p><p>5.66</p></td><td>7</td><td><p>12.66</p><p>12.66</p></td></tr><tr class="even"><td>125</td><td><p>普纳大学</p><p>Pune University</p></td><td><p>印度</p><p>India</p></td><td><p>10.56</p><p>10.56</p></td><td>2</td><td><p>12.56</p><p>12.56</p></td></tr><tr class="odd"><td>126</td><td><p>中国科技大学</p><p>University of Science and Technology of China</p></td><td><p>中国</p><p>China</p></td><td><p>11.48</p><p>11.48</p></td><td>1</td><td><p>12.48</p><p>12.48</p></td></tr><tr class="even"><td>127</td><td><p>乌普萨拉大学</p><p>Uppsala University</p></td><td><p>瑞典</p><p>Sweden</p></td><td><p>7.46</p><p>7.46</p></td><td>5</td><td><p>12.46</p><p>12.46</p></td></tr><tr class="odd"><td>128</td><td><p>佐治亚大学系统</p><p>University System of Georgia</p></td><td><p>美国</p><p>United States</p></td><td><p>5.40</p><p>5.40</p></td><td>6</td><td><p>11.40</p><p>11.40</p></td></tr><tr class="even"><td>129</td><td><p>大阪大学</p><p>Osaka University</p></td><td><p>日本</p><p>Japan</p></td><td><p>8.32</p><p>8.32</p></td><td>3</td><td><p>11.32</p><p>11.32</p></td></tr><tr class="odd"><td>130</td><td><p>南京大学</p><p>Nanjing University</p></td><td><p>中国</p><p>China</p></td><td><p>7.44</p><p>7.44</p></td><td>3</td><td><p>10.44</p><p>10.44</p></td></tr><tr class="even"><td>131</td><td><p>复旦大学</p><p>Fudan University</p></td><td><p>中国</p><p>China</p></td><td><p>7.27</p><p>7.27</p></td><td>3</td><td><p>10.27</p><p>10.27</p></td></tr></tbody></table>
+|Ranking|University|Country and region|Traffic Score|Design Score|Total Score|
+|:----|:----|:----|:----|:----|:----|
+|1|哈佛大学|美国|195.4|8|203.4|
+| |Harvard University|USA|195.4| |203.4|
+|2|麻省理工学院|美国|151.7|5|156.7|
+| |Massachusetts Institute of Technology|United States|151.7| |156.7|
+|3|斯坦福大学|美国|112|7|119|
+| |Stanford University|United States|112| |119|
+|4|墨西哥国立自治大学|墨西哥|93.68|6|99.68|
+| |National Autonomous University of Mexico|Mexico|93.68| |99.68|
+|5|宾州大学|美国|84.78|4|88.78|
+| |Pennsylvania State University|United States|84.78| |88.78|
+|6|圣保罗大学|巴西|79.37|7|86.37|
+| |University of São Paulo|Brazil|79.37| |86.37|
+|7|康奈尔大学|美国|76.04|7|83.04|
+| |Cornell University.|United States|76.04| |83.04|
+|8|加州大学伯克利分校|美国|62.02|6|68.02|
+| |University of California, Berkeley|United States|62.02| |68.02|
+|9|密歇根大学|美国|49.64|6|55.64|
+| |University of Michigan.|United States|49.64| |55.64|
+|10|威斯康星大学|美国|46.67|6|52.67|
+| |University of Wisconsin|United States|46.67| |52.67|
+|11|哥伦比亚大学|美国|46.06|6|52.06|
+| |Columbia University|United States.|46.06| |52.06|
+|12|华盛顿大学|美国|42.2|6|48.2|
+| |University of Washington|United States|42.2| |48.2|
+|13|牛津大学|英国|41.58|6|47.58|
+| |University of Oxford.|United Kingdom|41.58| |47.58|
+|14|普度大学|美国|41.39|6|47.39|
+| |Pudu University|United States|41.39| |47.39|
+|15|宾夕法尼亚大学|美国|38.97|6|44.97|
+| |University of Pennsylvania|United States|38.97| |44.97|
+|16|得克萨斯大学|美国|35.69|7|42.69|
+| |University of Texas|United States|35.69| |42.69|
+|17|加州大学洛杉矶分校|美国|38.77|3|41.77|
+| |University of California, Los Angeles|United States|38.77| |41.77|
+|18|普林斯顿大学|美国|35.68|6|41.68|
+| |Princeton University.|United States|35.68| |41.68|
+|19|耶鲁大学|美国|34.95|6|40.95|
+| |Yale University|United States|34.95| |40.95|
+|20|明尼苏达大学|美国|35.83|5|40.83|
+| |University of Minnesota|United States|35.83| |40.83|
+|21|卡内基梅隆大学|美国|34|6|40|
+| |Carnegie Mellon University|United States.|34| |40|
+|22|伊利诺伊大学|美国|34.46|4|38.46|
+| |University of Illinois|United States|34.46| |38.46|
+|23|剑桥大学|英国|33.16|6|39.16|
+| |University of Cambridge|England|33.16| |39.16|
+|24|安纳托鲁大学|土耳其|31.82|6|37.82|
+| |Anatolu University|Turkey|31.82| |37.82|
+|25|纽约大学|美国|33.81|3|36.81|
+| |New York University|United States|33.81| |36.81|
+|26|佛罗里达大学|美国|31.04|5|36.04|
+| |University of Florida|United States|31.04| |36.04|
+|27|不列颠哥伦比亚大学|加拿大|29.7|6|35.7|
+| |University of British Columbia|Canada|29.7| |35.7|
+|28|南加州大学|美国|31.08|3|34.08|
+| |University of Southern California|United States|31.08| |34.08|
+|29|南大河州联邦大学|巴西|29.92|4|33.92|
+| |Nandahezhou Federal University.|Brazil|29.92| |33.92|
+|30|智利大学|智利|28.71|5|33.71|
+| |University of Chile|Chile|28.71| |33.71|
+|31|加州大学圣迭戈分校|美国|28.66|5|33.66|
+| |University of California, San Diego|United States|28.66| |33.66|
+|32|芝加哥大学|美国|27.62|6|33.62|
+| |University of Chicago|United States of America|27.62| |33.62|
+|33|多伦多大学|加拿大|27.21|6|33.21|
+| |University of Toronto|Canada|27.21| |33.21|
+|34|密歇根州立大学|美国|28.13|5|33.13|
+| |Michigan State University|United States|28.13| |33.13|
+|35|波士顿大学|美国|26.68|6|32.68|
+| |Boston University|United States of America.|26.68| |32.68|
+|36|亚利桑那州立大学|美国|27.46|5|32.46|
+| |Arizona State University|United States|27.46| |32.46|
+|37|约翰霍普金斯大学|美国|24.41|8|32.41|
+| |Johns Hopkins University|United States|24.41| |32.41|
+|38|北卡大学教堂山分校|美国|26.17|6|32.17|
+| |University of North Carolina at Chapel Hill|United States|26.17| |32.17|
+|39|犹他大学|美国|27.75|4|31.75|
+| |Utah State University|United States|27.75| |31.75|
+|40|伦敦大学学院|英国|24.2|6|30.2|
+| |University College London|United Kingdom|24.2| |30.2|
+|41|加州大学尔湾分校|美国|22.86|7|29.86|
+| |University of California, Irvine|United States|22.86| |29.86|
+|42|杜克大学|美国|22.57|7|29.57|
+| |Duke University|United States|22.57| |29.57|
+|43|西北大学|美国|23.29|6|29.29|
+| |Northwest University|United States|23.29| |29.29|
+|44|圣卡塔琳娜州联邦大学|巴西|25.94|3|28.94|
+| |Santa Catarina Federal University|Brazil|25.94| |28.94|
+|45|德州农工大学|美国|23.94|5|28.94|
+| |Texas A&M University|United States|23.94| |28.94|
+|46|印尼安纳大学|美国|22.84|6|28.84|
+| |University of Indonesia|United States|22.84| |28.84|
+|47|加州理工学院|美国|22.69|6|28.69|
+| |California Institute of Technology|United States|22.69| |28.69|
+|48|苏黎世联邦理工学院|瑞士|25.47|3|28.47|
+| |Swiss Federal Institute of Technology Zurich|Switzerland|25.47| |28.47|
+|49|纽约城市大学|美国|21.77|6|27.77|
+| |City University of New York (CUNY)|United States|21.77| |27.77|
+|50|加州大学戴维斯分校|美国|21.4|6|27.4|
+| |University of California, Davis|United States|21.4| |27.4|
+|51|布宜诺斯艾利斯大学|阿根廷|26.37|1|27.37|
+| |University of Buenos Aires|Argentina|26.37| |27.37|
+|52|马里兰大学|美国|19.97|7|26.97|
+| |University of Maryland|United States|19.97| |26.97|
+|53|罗切斯特大学|美国|23.81|3|26.81|
+| |Rochester University|United States|23.81| |26.81|
+|54|加查马达大学|印度尼西亚|19.71|7|26.71|
+| |Jigme Namgyel Engineering College|Indonesia|19.71| |26.71|
+|55|俄亥俄州立大学|美国|21.23|5|26.23|
+| |Ohio State University|United States|21.23| |26.23|
+|56|台湾大学|中国台湾|23.8|2|25.8|
+| |National Taiwan University|Taiwan, China|23.8| |25.8|
+|57|哥伦比亚国立大学|哥伦比亚|20.34|5|25.34|
+| |National University of Colombia|Colombia|20.34| |25.34|
+|58|亚利桑那大学|美国|18.72|6|24.72|
+| |Arizona State University|United States|18.72| |24.72|
+|59|爱丁堡大学|英国|19.57|5|24.57|
+| |The University of Edinburgh.|United Kingdom|19.57| |24.57|
+|60|科罗拉多大学|美国|19.49|5|24.49|
+| |University of Colorado|United States|19.49| |24.49|
+|61|西部州长大学|美国|19.34|5|24.34|
+| |Western Governors University|United States|19.34| |24.34|
+|62|弗吉尼亚大学|美国|18.98|5|23.98|
+| |University of Virginia|United States|18.98| |23.98|
+|63|东京大学|日本|16.77|7|23.77|
+| |The University of Tokyo|Japan|16.77| |23.77|
+|64|清华大学|中国|20.76|3|23.76|
+| |Tsinghua University|China|20.76| |23.76|
+|65|佐治亚州立大学|美国|18.55|5|23.55|
+| |Georgia State University|United States|18.55| |23.55|
+|66|米纳斯联邦大学|巴西|18.29|5|23.29|
+| |Universidade Federal de Minas Gerais (Federal University of Minas Gerais)|Brazil|18.29| |23.29|
+|67|庆应大学|日本|14.78|8|22.78|
+| |Keio University|Japan|14.78| |22.78|
+|68|印度尼西亚大学|印度尼西亚|17.69|5|22.69|
+| |Universitas Indonesia|Indonesia|17.69| |22.69|
+|69|罗格斯大学|美国|17.51|5|22.51|
+| |Rutgers University|United States|17.51| |22.51|
+|70|麦吉尔大学|加拿大|19.41|3|22.41|
+| |McGill University|Canada|19.41| |22.41|
+|71|加州大学旧金山分校|美国|17.38|5|22.38|
+| |University of California, San Francisco|United States.|17.38| |22.38|
+|72|英迪拉甘地大学|印度|19.18|3|22.18|
+| |Indira Gandhi University|India|19.18| |22.18|
+|73|巴塞罗那大学|西班牙|19.16|3|22.16|
+| |Barcelona University|Spain|19.16| |22.16|
+|74|圣保罗州立大学|巴西|17|5|22|
+| |Sao Paulo State University|Brazil|17| |22:00|
+|75|里约联邦大学|巴西|18.6|3|21.6|
+| |Federal University of Rio de Janeiro|Brazil|18.6| |21.6|
+|76|匹兹堡大学|美国|17.1|4|21.1|
+| |University of Pittsburgh|United States|17.1| |21.10|
+|77|墨尔本大学|澳大利亚|15.04|6|21.04|
+| |University of Melbourne|Australia|15th of April| |21.04 |
+|78|新加坡大学|新加坡|14.98|6|20.98|
+| |National University of Singapore|Singapore|14.98| |20.98|
+|79|佐治亚理工学院|美国|15.79|5|20.79|
+| |Georgia Institute of Technology|United States|15.79| |20.79|
+|80|德里大学|印度|18.77|2|20.77|
+| |University of Delhi|India|18.77| |20.77|
+|81|夏威夷大学|美国|15.55|5|20.55|
+| |University of Hawaii|United States|15.55| |20.55|
+|82|博洛尼亚大学|意大利|14.53|6|20.53|
+| |University of Bologna|Italy.|14.53| |20.53|
+|83|香港中文大学|中国香港|16.7|3|19.7|
+| |The Chinese University of Hong Kong.|Hong Kong, China|16.7| |19.7|
+|84|莫斯科大学|俄罗斯|16.54|3|19.54|
+| |Moscow University|Russia|16.54| |19.54|
+|85|滑铁卢大学|加拿大|14.48|5|19.48|
+| |University of Waterloo.|Canada|14.48| |19.48|
+|86|弗吉尼亚理工学院|美国|14.34|5|19.34|
+| |Virginia Polytechnic Institute and State University|United States|14.34| |19.34|
+|87|南洋理工大学|新加坡|13.03|6|19.03|
+| |Nanyang Technological University.|Singapore|This is a date in the format of DD.MM.| |19.03|
+|88|新南威尔士大学|澳大利亚|15.8|3|18.8|
+| |The University of New South Wales|Australia|15.8| |18.8|
+|89|保利斯塔大学|巴西|17.67|1|18.67|
+| |Polytechnic University of Bari|Brazil|17.67| |18.67|
+|90|莫那什大学|澳大利亚|12.49|6|18.49|
+| |Mona University|Australia|12.49| |18.49|
+|91|柏林大学|德国|11.43|7|18.43|
+| |Berlin University|Germany|11.43| |11:43| |18.43|
+|92|京都大学|日本|12.41|6|18.41|
+| |Kyoto University|Japan|12.41| |18.41|
+|93|西门菲莎大学|加拿大|11.35|7|18.35|
+| |Simon Fraser University|Canada|11.35| |18.35|
+|94|维也纳大学|奥地利|11.12|7|18.12|
+| |University of Vienna|Austria|11.12| |18.12|
+|95|慕尼黑大学|德国|14.04|4|18.04|
+| |University of Munich|Germany|14.04| |18.04|
+|96|海德堡大学|德国|11|7|18|
+| |Heidelberg University.|Germany|11| |18|
+|97|瓜达拉哈拉大学|墨西哥|13.98|4|17.98|
+| |University of Guadalajara|Mexico|13.98| |17.98|
+|98|帝国理工大学|英国|12.15|5|17.15|
+| |Imperial College London|UK|12.15| |17.15|
+|99|慕尼黑技术大学|德国|12.07|5|17.07|
+| |Technical University of Munich|Germany|12.07| |17.07|
+|100|华威大学|英国|11.82|5|16.82|
+| |University of Warwick|England|11.82| |16.82|
+|101|奥斯陆大学|挪威|13.6|3|16.6|
+| |University of Oslo|Norway|13.6| |16.6|
+|102|汉堡大学|德国|9.19|7|16.19|
+| |Hamburg University|Germany|9.19| |16.19|
+|103|代尔夫特理工大学|荷兰|9.07|7|16.07|
+| |Delft University of Technology|Netherlands|9.07| |16.07|
+|104|阿姆斯特丹大学|荷兰|9.87|6|15.87|
+| |University of Amsterdam|Netherlands|9.87| |15.87|
+|105|北京大学|中国|13.83|2|15.83|
+| |Peking University|China|13.83| |15.83|
+|106|凤凰城大学|美国|12.71|3|15.71|
+| |Phoenix University|United States|12.71| |15.71|
+|107|鲁汶大学|比利时|9.68|6|15.68|
+| |KU Leuven|Belgium|9.68| |15.68|
+|108|乌特勒支大学|荷兰|9.57|6|15.57|
+| |Utrecht University|Netherlands|9.57| |15.57|
+|109|悉尼大学|澳大利亚|10.4|5|15.4|
+| |The University of Sydney|Australia|10:40| |15.4|
+|110|上海交通大学|中国|12.2|3|15.2|
+| |Shanghai Jiao Tong University|China|12.2| |15.2|
+|111|香港大学|中国香港|12.09|3|15.09|
+| |The University of Hong Kong.|Hong Kong, China|12.09| |15.09|
+|112|格罗宁根大学|荷兰|9.07|6|15.07|
+| |University of Groningen|Netherlands|9.07| |15.07|
+|113|哥本哈根大学|丹麦|8.06|7|15.06|
+| |University of Copenhagen|Denmark|8.06| |15.06|
+|114|日内瓦大学|瑞士|8.95|6|14.95|
+| |University of Geneva|Switzerland.|8.95| |14.95|
+|115|浙江大学|中国|12.94|2|14.94|
+| |Zhejiang University.|China|12.94| |14.94|
+|116|赫尔辛基大学|芬兰|9.78|5|14.78|
+| |University of Helsinki.|Finland|9.78| |14.78|
+|117|南非大学|南非|9.59|5|14.59|
+| |South African university.|South Africa|9.59| |14.59|
+|118|跟特大学|比利时|9.33|5|14.33|
+| |Ghent University|Belgium|9.33| |14.33|
+|119|罗马大学|意大利|8.31|6|14.31|
+| |Roman University|Italy|8.31| |14.31|
+|120|印度理工学院孟买分校|印度|8.03|6|14.03|
+| |Indian Institute of Technology Bombay|India|8.03| |14.03|
+|121|苏黎世大学|瑞士|9.06|4|13.06|
+| |University of Zurich|Switzerland|9.06| |13.06|
+|122|开普敦大学|南非|7.06|6|13.06|
+| |University of Cape Town|South Africa.|7.06| |13.06|
+|123|特拉维夫大学|以色列|8.01|5|13.01|
+| |Tel Aviv University|Israel|8.01| |13.01|
+|124|香港科技大学|中国香港|5.66|7|12.66|
+| |Hong Kong University of Science and Technology|Hong Kong, China|5.66| |12.66|
+|125|普纳大学|印度|10.56|2|12.56|
+| |Pune University|India|10.56| |12.56|
+|126|中国科技大学|中国|11.48|1|12.48|
+| |University of Science and Technology of China|China|11.48| |12.48|
+|127|乌普萨拉大学|瑞典|7.46|5|12.46|
+| |Uppsala University|Sweden|7.46| |12.46|
+|128|佐治亚大学系统|美国|5.4|6|11.4|
+| |University System of Georgia|United States|5.4| |11.4|
+|129|大阪大学|日本|8.32|3|11.32|
+| |Osaka University|Japan|8.32| |11.32|
+|130|南京大学|中国|7.44|3|10.44|
+| |Nanjing University|China|7.44| |10.44|
+|131|复旦大学|中国|7.27|3|10.27|
+| |Fudan University|China|7.27| |10.27|

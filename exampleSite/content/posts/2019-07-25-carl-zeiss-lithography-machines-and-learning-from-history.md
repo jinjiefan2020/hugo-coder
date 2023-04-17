@@ -11,7 +11,7 @@ tags:
   - "zeiss"
 ---
 
-![Image](images/image45.jpeg) (Photo: ZEISS)
+![Image](../images/image45.jpeg) (Photo: ZEISS)
 
 (Photo: ZEISS)
 
@@ -95,7 +95,7 @@ Quantifying technology can be quite challenging, so we often use fundamental sci
 
 Let's take a look at how the scientific level of the United States has evolved in the 30 years since it became the world's largest economy in terms of total GDP.
 
-![Image](images/image46.jpeg)
+![Image](../images/image46.jpeg)
 
 This graph excludes the literature and peace awards. As we can see, the United States was far behind Europe in scientific research during the early 20th century, and even incomparable to Germany, England, and France individually. I specifically checked and found out that among the six American winners, three of them were actually European immigrants.
 
@@ -111,7 +111,7 @@ Many European Nobel Prize winners, such as Einstein, Frank, and Fermi, emigrated
 
 Let's take a look again at the distribution of Nobel Prizes in the latter half of the 20th century, distinguishing them based on the location of the laureate's workplace.
 
-![Image](images/image47.jpeg)
+![Image](../images/image47.jpeg)
 
 As can be seen from the above figure, the United States has established an overwhelming advantage in basic scientific research. This has enabled the United States to take the lead in high-tech basic research such as electronics, materials, and biology, and to have a great advantage in specific application fields such as aerospace, medicine, chemistry, and semiconductors.
 
@@ -133,7 +133,7 @@ Various backwardnesses compromised the competitiveness of Zeiss's lithography ma
 
 Today, in Zeiss' four major business groups, the Semiconductor Manufacturing Technology Business Group (SMT) has been ranked first, contributing one-quarter of the company's revenue. ASML has acquired a quarter of the shares in SMT.
 
-![Image](images/image48.jpeg)
+![Image](../images/image48.jpeg)
 
 Carl Zeiss is assembling the optics module for ASML EUV in a clean room (Photo: ZEISS).
 

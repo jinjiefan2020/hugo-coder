@@ -79,7 +79,7 @@ The owner of a small Dutch company called ASM International, Arthur Del Prado, l
 
 Philips hesitated for a year and finally reluctantly agreed to set up a 50:50 joint venture. When ASML was established on April 1, 1984, there were only 31 employees working in a makeshift wooden house outside the Philips building.
 
-![Image](images/image39.jpeg) ASML最早成立时的简易平房，后面的玻璃大厦是飞利浦。Credit: ASML
+![Image](../images/image39.jpeg) ASML最早成立时的简易平房，后面的玻璃大厦是飞利浦。Credit: ASML
 
 The simple bungalow seen in ASML's earliest days is followed by a glass building, which belongs to Philips. Credit: ASML.
 
@@ -207,7 +207,7 @@ An EUV photolithography machine weighs 180 tons, has over 100,000 parts, require
 
 Next year, we will be able to purchase smartphones made with chips produced through EUV technology.
 
-![Image](images/image40.jpeg)
+![Image](../images/image40.jpeg)
 
 EUV lithography machine Credit: ASML
 

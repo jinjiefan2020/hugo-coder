@@ -44,7 +44,7 @@ During the era of simulated mobile phones (1G), Motorola was undoubtedly the lea
 
 Interestingly, it seems that there were no British mobile phone brands to be seen. However, a British company named Acorn, which later became Apple, swept the world. After Apple abandoned the Newton tablet, it was Texas Instruments who truly had a discerning eye. TI introduced the ARM7 to the Nokia 6110 and contributed 70% of its revenue exclusively to Acorn, allowing ARM to make a big comeback after 10 years.
 
-![](images/image81.jpeg)
+![](../images/image81.jpeg)
 
 The situation with semiconductor manufacturers in the United States is rather complicated. There are a lot of companies that make mobile phone processors, such as TI, Skyworks, ADI, Agere, Broadcom, Marvell, Qualcomm, and so on. However, there is basically only one major player in the mobile phone market, which is Motorola. They have their own chip and are very strong. Consequently, these companies have been seeking customers overseas, resulting in a series of chaotic battles that have ultimately led to their downfall.
 
@@ -56,7 +56,7 @@ However, unlike today where the integration of mobile phone core chips is very h
 
 In 1999, Siemens spun off its semiconductor division, which became Infineon. When I first started working at Infineon, Siemens phones were standard issue. The company also had a strange benefit: if you lost your phone, you could get another one for free. Looking back, perhaps this wasn't really a benefit - if you lost your phone, it was best to quickly get a new one so as not to disrupt your work. :-)
 
-![](images/image82.jpeg)
+![](../images/image82.jpeg)
 
 The quality of Siemens mobile phones is really good, it feels like you can use it as a hammer to knock nails without it breaking. However, in the era when the phone had limited features, appearance was more important than substance, and slow-moving companies like Siemens really couldn't keep up. In 2005, after unsuccessfully attempting to sell to Motorola, the wealthy Siemens company actually paid 350 million euros to transfer its phone department to Taiwan's Benq. Then, within a year, the dream of the world's largest mobile phone manufacturer, Benq, was shattered, and the reason was that the so-called German craftsmanship was just too slow.
 
@@ -64,7 +64,7 @@ When Siemens' mobile phone business was struggling, Infineon's Wireless Division
 
 Meanwhile, while secretly developing the iPhone, Steve Jobs was also searching for a high-integration, easy-to-use baseband chip. We will discuss this later on.
 
-![](images/image83.jpeg)
+![](../images/image83.jpeg)
 
 After giving up on Siemens phones, I switched to the Philips 9@9c, which not only looks sleek and lightweight, but also has a magical feature of being able to last for a month in standby mode. It's unbelievable that one doesn't need to carry a charger when going on a business trip nowadays.
 
@@ -126,7 +126,7 @@ The most crucial factor is the absence of a financial backer like Intel. Without
 
 In this year's iPhone XS, the Intel Baseband Modem XMM7560 officially replaced Qualcomm, as if fulfilling the late Steve Jobs' wish and saving a lot of money by not paying Qualcomm's taxes.
 
-![图片](images/image84.png)
+![图片](../images/image84.png)
 
 The new 5G baseband modem will reach speeds of up to 5-20 Gbps, perhaps with 10 modules and 50 frequencies. Testing a single chip will require the cooperation of global operators. Companies such as Qualcomm and Huawei have integrated various application processors (CPU/GPU/AI/security, etc.) into a single chip, making it the king of complexity in the field of semiconductors. As the saying goes, the trend of the world is cyclical, and Intel as a single customer can no longer hold out.
 

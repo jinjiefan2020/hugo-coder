@@ -76,7 +76,7 @@ With the rapid development of electronic technology after World War II, medical 
 
 The 2010s: Advanced 3D Imaging (Three-dimensional reconstruction and rendering of medical images)
 
-![Image](images/image96.jpeg) (3D影像重建，Photo Credit: Siemens Healthineers)
+![Image](../images/image96.jpeg) (3D影像重建，Photo Credit: Siemens Healthineers)
 
 3D image reconstruction, Photo Credit: Siemens Healthineers
 

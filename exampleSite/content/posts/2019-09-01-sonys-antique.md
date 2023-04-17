@@ -24,7 +24,7 @@ At that time, we knew nothing about holding a television, one can only say that 
 
 Watchman was born in 1982, producing a total of up to 65 models. The one I recently discovered is from the 1985 version.
 
-![](images/image100.jpeg)
+![](../images/image100.jpeg)
 
 For reference only, please disregard my beautiful hands.
 
@@ -50,7 +50,7 @@ As usual, let's briefly review some history that interests me and then take a lo
 
 In 1963, Philips developed the small cassette tape that we have been using since then. Japanese manufacturers agreed to pay a licensing fee of 6 yen per cassette, except for Sony.
 
-![图片](images/image101.png)
+![图片](../images/image101.png)
 
 Dahe Dianxiong actually managed to convince Philips to waive patent royalties worldwide in the end.
 
@@ -112,21 +112,21 @@ Sony has released far far far too many products, with so many that they cannot b
 
 It seems that Sony is not nostalgic; innovation is still in its DNA.
 
-![图片](images/image102.gif)
+![图片](../images/image102.gif)
 
 Numerous online articles have provided seemingly rational analyses of the rise and fall of Sony. Unfortunately, I must say that I haven't come across a truly insightful piece on the matter.
 
 Next, let's take a look at how this compact Watchman conceals a universe of possibilities inside its small body.
 
-![](images/image103.jpeg)
+![](../images/image103.jpeg)
 
 The main circuit board looks quite standard, after all it was from that era, with only one or two chips.
 
-![图片](images/image101.png)
+![图片](../images/image101.png)
 
 The high voltage part below is a bit scary, with the warning on the casing stating "Prevent Electric Shock". Here, several dry batteries are combined to produce a voltage of 370 volts.
 
-![图片](images/image104.png)
+![图片](../images/image104.png)
 
 If opened again, one can appreciate the horizontally placed cathode ray tube and a tangled mess representing the culmination of analog era.
 

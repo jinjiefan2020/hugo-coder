@@ -12,7 +12,7 @@ tags:
 
 Today the Winter Olympics will begin, do you know who is consistently ranked first on the gold medal leaderboard?
 
-![图片](images/image112.png)
+![图片](../images/image112.png)
 
 Historical Winter Olympics Medal Table by Statista.
 
@@ -34,7 +34,7 @@ Does having minerals suffice for sports? After all, the population is just a sma
 
 There must be other reasons.
 
-![图片](images/image113.jpeg)
+![图片](../images/image113.jpeg)
 
 ### Two,
 
@@ -46,7 +46,7 @@ The Maoxiong family's home is also very cold, with a population more than twenty
 
 There must be other reasons.
 
-![图片](images/image114.jpeg)
+![图片](../images/image114.jpeg)
 
 (Photo Ins:@visitnorway)
 
@@ -84,7 +84,7 @@ One benefit of attending kindergarten from a young age is that certified teacher
 
 Another benefit is that from living in a community since childhood, the child's life is no longer so lonely.
 
-![图片](images/image115.jpeg)
+![图片](../images/image115.jpeg)
 
 (Photo Ins:@visitnorway)
 
@@ -106,7 +106,7 @@ It is said that elementary school students spend most of their time playing outd
 
 All kinds of small sports are naturally engaged in, not afraid of the cold since childhood, and have been participating in sports teams since childhood. The national sports atmosphere is strong.
 
-![图片](images/image116.jpeg)
+![图片](../images/image116.jpeg)
 
 (Photo: visitnorway.com)
 
@@ -138,7 +138,7 @@ So, is this country truly not heaven on earth? Can't a family give birth to twen
 
 However, it did not happen.
 
-![图片](images/image117.jpeg)
+![图片](../images/image117.jpeg)
 
 (Picture Ins:@visitnorway)
 
@@ -154,7 +154,7 @@ In addition, housing prices, cost of living, and general expenses are very high 
 
 Norwegian young people have had little pressure from childhood to adulthood. In society, most people work in mining and there is a lack of entrepreneurial opportunities and fighting spirit. As a result, when they reach a reproductive age, they naturally cannot earn much money and having one or two children for fun is enough.
 
-![图片](images/image118.jpeg)
+![图片](../images/image118.jpeg)
 
 (No translation necessary, as this is the Chinese characters for a link to an Instagram account.)
 

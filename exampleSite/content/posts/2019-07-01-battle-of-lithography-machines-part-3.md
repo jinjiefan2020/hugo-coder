@@ -45,7 +45,7 @@ This big business was lost for about ten years, and ASML only began to regain li
 
 The success of Siemens MEGA project propelled its memory business to flourish for twenty years until Qimonda's bankruptcy, which was partly caused by Toshiba's withdrawal from the Trench technology alliance. (Is this a cycle? For more details, refer to "The Story of Memory")
 
-![Image](images/image43.jpeg) 西门子1Mb内存 （Photo Credit: Siemens）
+![Image](../images/image43.jpeg) 西门子1Mb内存 （Photo Credit: Siemens）
 
 Siemens 1Mb memory.
 
@@ -71,6 +71,6 @@ ASML was in urgent need of money, and these orders came to the rescue at a criti
 
 The PAS2500 can produce 70 6-inch wafers per hour, and it is ASML's first truly high-speed and stable lithography machine.
 
-![Image](images/image44.jpeg)
+![Image](../images/image44.jpeg)
 
 Perhaps it's true that the times make heroes. ASML and TSMC, two small companies that were once unknown, supported each other through serendipitous circumstances and have now become the unrivaled champions of the semiconductor industry.

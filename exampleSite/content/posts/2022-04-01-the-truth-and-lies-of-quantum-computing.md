@@ -45,7 +45,7 @@ According to Quantum Insider/Photonics Box statistics, China's financial allocat
 
 Excluding government contributions, the chart below depicts the distribution of private company investments in quantum technology as seen in the journal "Nature". Although the data is slightly outdated, it indicates that there is still a significant difference between foreign and domestic investment.
 
-![图片](images/image73.jpeg)
+![图片](../images/image73.jpeg)
 
 ### 2\. Classification of Quantum Technology
 
@@ -55,7 +55,7 @@ Western companies tend to focus their research and development efforts on quantu
 
 Quantum communication is too amazing, and I don't understand it, but that's not the focus of this article. Anyway, they say it is very useful, and the effect is estimated to be at least comparable to Lianhuaqingwen.
 
-![图片](images/image74.png)
+![图片](../images/image74.png)
 
 "Nature" Journal: China's quantum patents are concentrated in quantum communication (yellow) and other areas (blue), not so much in quantum computing (deep orange).
 
@@ -89,7 +89,7 @@ Quantum entanglement is too easily disturbed by external factors. Even in the vi
 
 According to IBM's roadmap, the number of qubits doubles each year. In another 10 years, we will reach a million qubits that can perform Shor's algorithm. This is the legendary quantum Moore's Law.
 
-![图片](images/image75.jpeg)
+![图片](../images/image75.jpeg)
 
 Superconducting loop images are like works of art (Credit: IBM)
 
@@ -107,7 +107,7 @@ The technology of ion trap is not new, many atomic clocks use this technology, a
 
 Ion trapping is a fascinating experiment where laser is used to ionize ytterbium atoms (Yb) by knocking off their electrons to create ions (don't ask me how it's done :-). These positively charged ions are then trapped in a 3D space using an array of electric potentials, known as a "trap".
 
-![图片](images/image75.jpeg)
+![图片](../images/image75.jpeg)
 
 The style of the ionized hydrazine machine is very robust. Credit: Honeywell.
 

@@ -78,7 +78,7 @@ In my articles, I have never talked about a type of chip called MEMS (micro-elec
 
 A 4K LCD has 8.3 million pixels, while a 4K DMD has 8.3 million tiny mirrors that can independently flip on an array measuring less than 2 centimeters on the diagonal.
 
-![图片](images/image49.jpeg)
+![图片](../images/image49.jpeg)
 
 The small mirror under the electron microscope can be flipped 12 degrees in two directions.
 
@@ -94,13 +94,13 @@ Each aluminum alloy small mirror is deposited onto a SRAM cell, which is several
 
 In fact, the small mirror is cleverly designed to be powered by static electricity, relying on extremely small hinge elasticity for reset.
 
-![图片](images/image50.png)
+![图片](../images/image50.png)
 
 The two red wires are the reset keys: they generate torque after the electrostatically adhered mirror is flipped.
 
 This step has been roughly taken for 10 years, trying countless materials and techniques, but it is still not mature. The goal is for each mirror to flip 2 trillion times without damage during its 100,000-hour lifetime, but at that time it was difficult to even achieve 500 hours.
 
-![图片](images/image51.png)
+![图片](../images/image51.png)
 
 The calculation of the balance between electrostatic torque and mechanical torque is actually much more complex than this, as it also requires the calculation of how much capacitance is needed for those electrostatic forces, and what is the minimum voltage needed to generate that capacitance.
 
@@ -128,7 +128,7 @@ The typical MEMS module consists primarily of sensors, which are coupled by stac
 
 The difficulty of DMD is much, much greater- with inputs of values for millions or even billions of colors every second, and outputs of tens of billions of independent movements of mirrors every second.
 
-![图片](images/image52.png)
+![图片](../images/image52.png)
 
 DMD probably requires three additional photolithography steps in addition to producing SRAM:
 

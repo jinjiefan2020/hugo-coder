@@ -56,7 +56,7 @@ Answer: This is a good question, and difficult to answer. ASML themselves acknow
 
 There are many blogs outlets speculating that the Netherlands only accounts for 10% of the supply chain. However, based on the official diagram below, 80% of ASML's supply chain is in Europe, with 41% located in the Netherlands.
 
-![图片](images/image38.png)
+![图片](../images/image38.png)
 
 Of ASML's 5000 suppliers, 1600 are located in the Netherlands.
 

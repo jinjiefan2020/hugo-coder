@@ -80,7 +80,7 @@ Cloud computing started too late.
 
 Therefore, it's very interesting and courageous that Ellison stepped down from being CEO to become CTO.
 
-![图片](images/image59.png)
+![图片](../images/image59.png)
 
 More than 80% of Oracle's business in the financial report is labeled as either Cloud Services or Cloud License. To be honest, putting the name "cloud" on almost all businesses is a bit heavy-handed.
 

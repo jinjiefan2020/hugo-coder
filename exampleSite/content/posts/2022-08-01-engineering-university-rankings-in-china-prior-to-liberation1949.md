@@ -50,7 +50,55 @@ Therefore, we can rank engineering universities by calculating which ones have c
 
 Let's take a look at the top twenty first:
 
-<table style="width:100%;"><colgroup><col style="width: 11%"> <col style="width: 68%"> <col style="width: 19%"></colgroup><tbody><tr class="odd"><td>Ranking</td><td>School name.</td><td>Alumni counts</td></tr><tr class="even"><td>1</td><td><p>交通大学(上海)</p><p>Shanghai Jiao Tong University.</p></td><td>1687</td></tr><tr class="odd"><td>2</td><td><p>北洋大学</p><p>Beiyang University</p></td><td>1142</td></tr><tr class="even"><td>3</td><td><p>山西大学</p><p>Shanxi University</p></td><td>979</td></tr><tr class="odd"><td>4</td><td><p>交通大学(唐山)</p><p>Transport University (Tangshan)</p></td><td>793</td></tr><tr class="even"><td>5</td><td><p>交通大学(北京)</p><p>Beijing Jiaotong University.</p></td><td>762</td></tr><tr class="odd"><td>6</td><td><p>北平大学</p><p>Beiping University</p></td><td>719</td></tr><tr class="even"><td>7</td><td><p>中央大学</p><p>Central University</p></td><td>621</td></tr><tr class="odd"><td>8</td><td><p>浙江大学</p><p>Zhejiang University</p></td><td>517</td></tr><tr class="even"><td>9</td><td><p>南通大学</p><p>Nantong University.</p></td><td>507</td></tr><tr class="odd"><td>10</td><td><p>山西工专</p><p>Shanxi Industrial Vocational and Technical College</p></td><td>506</td></tr><tr class="even"><td>11</td><td><p>同济大学</p><p>Tongji University</p></td><td>422</td></tr><tr class="odd"><td>12</td><td><p>东北大学</p><p>Northeastern University</p></td><td>421</td></tr><tr class="even"><td>13</td><td><p>中山大学</p><p>Sun Yat-sen University.</p></td><td>421</td></tr><tr class="odd"><td>14</td><td><p>湖南大学</p><p>Hunan University</p></td><td>375</td></tr><tr class="even"><td>15</td><td><p>复旦大学</p><p>Fudan University</p></td><td>369</td></tr><tr class="odd"><td>16</td><td><p>勷勤大学</p><p>Xiangqin University</p></td><td>311</td></tr><tr class="even"><td>17</td><td><p>北京大学</p><p>Peking University.</p></td><td>303</td></tr><tr class="odd"><td>18</td><td><p>清华大学</p><p>Tsinghua University</p></td><td>282</td></tr><tr class="even"><td></td><td><p>(美)康奈尔大学</p><p>(Cornell University, USA)</p></td><td>246</td></tr><tr class="odd"><td></td><td><p>(日)东京工业大学</p><p>(Tue) Tokyo Institute of Technology.</p></td><td>234</td></tr><tr class="even"><td></td><td><p>(美)麻省理工学院</p><p>(MIT) Massachusetts Institute of Technology.</p></td><td>221</td></tr><tr class="odd"><td>19</td><td><p>武汉大学</p><p>Wuhan University</p></td><td>175</td></tr><tr class="even"><td>20</td><td><p>河南水利工专</p><p>Henan Water Conservancy Engineering Specialist</p></td><td>171</td></tr></tbody></table>
+|Ranking|School name.|Alumni counts|
+|:----|:----|:----|
+|1|交通大学(上海)|1687|
+| |Jiao Tong University (Shanghai)| |
+|2|北洋大学|1142|
+| |Beiyang University| |
+|3|山西大学|979|
+| |Shanxi University| |
+|4|交通大学(唐山)|793|
+| |Jiao Tong University (Tangshan)| |
+|5|交通大学(北京)|762|
+| |Jiao Tong University (Peking)| |
+|6|北平大学|719|
+| |Beiping University| |
+|7|中央大学|621|
+| |Central University| |
+|8|浙江大学|517|
+| |Zhejiang University| |
+|9|南通大学|507|
+| |Nantong University.| |
+|10|山西工专|506|
+| |Shanxi Industrial Vocational and Technical College| |
+|11|同济大学|422|
+| |Tongji University| |
+|12|东北大学|421|
+| |Northeastern University| |
+|13|中山大学|421|
+| |Sun Yat-sen University| |
+|14|湖南大学|375|
+| |Hunan University| |
+|15|复旦大学|369|
+| |Fudan University| |
+|16|勷勤大学|311|
+| |Xiangqin University| |
+|17|北京大学|303|
+| |Peking University| |
+|18|清华大学|282|
+| |Tsinghua University| |
+| |(美)康奈尔大学|246|
+| |Cornell University, USA| |
+| |(日)东京工业大学|234|
+| |Tokyo Institute of Technology, JPN| |
+| |(美)麻省理工学院|221|
+| |(MIT) Massachusetts Institute of Technology| |
+|19|武汉大学|175|
+| |Wuhan University| |
+|20|河南水利工专|171|
+| |Henan Water Conservancy Engineering Specialist| |
+
 
 (Note: The blue color represents Tsinghua University and Beijing Jiaotong University, while the green color represents the school mentioned in the comment below.)
 
@@ -84,7 +132,85 @@ Not many people have heard of Xiangqin University, ranked 16th, but its architec
 
 Five, ranked 21-50.
 
-<table><colgroup><col style="width: 11%"> <col style="width: 68%"> <col style="width: 19%"></colgroup><tbody><tr class="odd"><td>Ranking</td><td>School name.</td><td>Alumni count.</td></tr><tr class="even"><td></td><td><p>(美)密歇根大学</p><p>(US) University of Michigan</p></td><td>162</td></tr><tr class="odd"><td>21</td><td><p>焦作工学院</p><p>Jiaozuo Institute of Technology.</p></td><td>146</td></tr><tr class="even"><td>22</td><td><p>河北工学院</p><p>Hebei Institute of Technology.</p></td><td>145</td></tr><tr class="odd"><td>23</td><td><p>西北工学院</p><p>Northwestern Polytechnical University</p></td><td>143</td></tr><tr class="even"><td>24</td><td><p>西南联合大学</p><p>Southwest United University</p></td><td>137</td></tr><tr class="odd"><td></td><td><p>(美)普度大学</p><p>(Purdue University)</p></td><td>127</td></tr><tr class="even"><td>25</td><td><p>国民大学</p><p>National University</p></td><td>113</td></tr><tr class="odd"><td>26</td><td><p>圣约翰大学</p><p>St. John's University</p></td><td>109</td></tr><tr class="even"><td>27</td><td><p>重庆大学</p><p>Chongqing University</p></td><td>100</td></tr><tr class="odd"><td></td><td><p>(美)哥伦比亚大学</p><p>(Columbia University)</p></td><td>98</td></tr><tr class="even"><td>28</td><td><p>南开大学</p><p>Nankai University</p></td><td>98</td></tr><tr class="odd"><td></td><td><p>(德)柏林工业大学</p><p>(TU) Berlin University of Technology</p></td><td>97</td></tr><tr class="even"><td>29</td><td><p>香港大学</p><p>The University of Hong Kong</p></td><td>93</td></tr><tr class="odd"><td></td><td><p>(美)伊利诺伊大学</p><p>University of Illinois (USA)</p></td><td>93</td></tr><tr class="even"><td>30</td><td><p>震旦大学</p><p>Chung Shan Medical University.</p></td><td>87</td></tr><tr class="odd"><td>31</td><td><p>天津工商学院</p><p>Tianjin University of Commerce</p></td><td>85</td></tr><tr class="even"><td>32</td><td><p>浙江工专</p><p>Zhejiang Vocational College</p></td><td>84</td></tr><tr class="odd"><td>33</td><td><p>中法工学院</p><p>Chinese-French Engineering Institute</p></td><td>77</td></tr><tr class="even"><td>34</td><td><p>江西工专</p><p>Jiangxi Vocational College</p></td><td>74</td></tr><tr class="odd"><td></td><td><p>(美)哈佛大学</p><p>Harvard University (USA)</p></td><td>69</td></tr><tr class="even"><td>35</td><td><p>云南大学</p><p>Yunnan University</p></td><td>68</td></tr><tr class="odd"><td>36</td><td><p>吴淞商船学校</p><p>Wusong Merchant Marine School</p></td><td>65</td></tr><tr class="even"><td>37</td><td><p>岭南大学</p><p>Lingnan University</p></td><td>64</td></tr><tr class="odd"><td>38</td><td><p>之江大学</p><p>Zhejiang University.</p></td><td>60</td></tr><tr class="even"><td>39</td><td><p>河海工程大学</p><p>Hohai University</p></td><td>59</td></tr><tr class="odd"><td></td><td><p>(日)东京帝国大学</p><p>(Tue) Tokyo Imperial University.</p></td><td>58</td></tr><tr class="even"><td>40</td><td><p>福中矿务大学</p><p>Fukang Mining College</p></td><td>54</td></tr><tr class="odd"><td>40</td><td><p>大夏大学</p><p>Daxia University.</p></td><td>54</td></tr><tr class="even"><td>42</td><td><p>广西大学</p><p>Guangxi University</p></td><td>53</td></tr><tr class="odd"><td>43</td><td><p>雷士德工学院(上海)</p><p>Shanghai Le Cordon Bleu College of Culinary Arts</p></td><td>45</td></tr><tr class="even"><td>44</td><td><p>北洋山海关铁路学堂</p><p>Beiyang Shanhaiguan Railway School</p></td><td>40</td></tr><tr class="odd"><td>45</td><td><p>南京高等师范</p><p>Nanjing Normal University</p></td><td>36</td></tr><tr class="even"><td>46</td><td><p>山东大学</p><p>Shandong University</p></td><td>35</td></tr><tr class="odd"><td>47</td><td><p>江苏工专</p><p>Jiangsu Institute of Technology</p></td><td>21</td></tr><tr class="even"><td>48</td><td><p>唐山路矿学堂</p><p>Tangshan School of Mines</p></td><td>18</td></tr><tr class="odd"><td>49</td><td><p>东陆大学</p><p>East Lushan University</p></td><td>17</td></tr><tr class="even"><td>50</td><td><p>齐鲁大学</p><p>Qilu University</p></td><td>16</td></tr><tr class="odd"><td>50</td><td><p>东南大学</p><p>Southeast University</p></td><td>16</td></tr></tbody></table>
+|Ranking|School name.|Alumni count.|
+|:----|:----|:----|
+| |(美)密歇根大学|162|
+| |(US) University of Michigan| |
+|21|焦作工学院|146|
+| |Jiaozuo Institute of Technology.| |
+|22|河北工学院|145|
+| |Hebei Institute of Technology.| |
+|23|西北工学院|143|
+| |Northwestern Polytechnical University| |
+|24|西南联合大学|137|
+| |Southwest United University| |
+| |(美)普度大学|127|
+| |Purdue University,USA| |
+|25|国民大学|113|
+| |National University| |
+|26|圣约翰大学|109|
+| |St. John's University| |
+|27|重庆大学|100|
+| |Chongqing University| |
+| |(美)哥伦比亚大学|98|
+| |Columbia University,USA| |
+|28|南开大学|98|
+| |Nankai University| |
+| |(德)柏林工业大学|97|
+| |(Germany) Berlin University of Technology| |
+|29|香港大学|93|
+| |The University of Hong Kong| |
+| |(美)伊利诺伊大学|93|
+| |University of Illinois (USA)| |
+|30|震旦大学|87|
+| |Chung Shan Medical University.| |
+|31|天津工商学院|85|
+| |Tianjin University of Commerce| |
+|32|浙江工专|84|
+| |Zhejiang Vocational College| |
+|33|中法工学院|77|
+| |Chinese-French Engineering Institute| |
+|34|江西工专|74|
+| |Jiangxi Vocational College| |
+| |(美)哈佛大学|69|
+| |Harvard University (USA)| |
+|35|云南大学|68|
+| |Yunnan University| |
+|36|吴淞商船学校|65|
+| |Wusong Merchant Marine School| |
+|37|岭南大学|64|
+| |Lingnan University| |
+|38|之江大学|60|
+| |Zhejiang University.| |
+|39|河海工程大学|59|
+| |Hohai University| |
+| |(日)东京帝国大学|58|
+| |(Japan) Tokyo Imperial University.| |
+|40|福中矿务大学|54|
+| |Fukang Mining College| |
+|40|大夏大学|54|
+| |Daxia University.| |
+|42|广西大学|53|
+| |Guangxi University| |
+|43|雷士德工学院(上海)|45|
+| |Shanghai Le Cordon Bleu College of Culinary Arts| |
+|44|北洋山海关铁路学堂|40|
+| |Beiyang Shanhaiguan Railway School| |
+|45|南京高等师范|36|
+| |Nanjing Normal University| |
+|46|山东大学|35|
+| |Shandong University| |
+|47|江苏工专|21|
+| |Jiangsu Institute of Technology| |
+|48|唐山路矿学堂|18|
+| |Tangshan School of Mines| |
+|49|东陆大学|17|
+| |East Lushan University| |
+|50|齐鲁大学|16|
+| |Qilu University| |
+|50|东南大学|16|
+| |Southeast University| |
+
 
 From a large number of records from foreign universities, it can be seen that studying abroad was quite common at that time. The total list of this database is particularly long, with more than 500 schools, perhaps including some that I am not familiar with, such as Claident. (To avoid the table being too long, many foreign schools were omitted from the table.)
 

@@ -34,7 +34,7 @@ I have always remembered the two words "dosage form" that were mentioned by an e
 
 In order to reduce my intake of chloramphenicol, I switched from Runchu to Alcon's TEARS NATURALE. After 2000, Alcon became almost synonymous with artificial tears in the industry and held an absolute dominant position. However, who would have guessed that after another 10 years, sodium hyaluronate would make a comeback and give Alcon a bit of a struggle.
 
-![图片](images/image97.jpeg)
+![图片](../images/image97.jpeg)
 
 In North America, there is a wide variety of artificial tears, and the competition is fierce.
 
@@ -62,7 +62,7 @@ The problem of eye fatigue from prolonged use of WeChat and TikTok/Kuaishou has 
 
 Hylo is almost nonexistent in North American pharmacies, and online sales are over three times more expensive than American-made eye drops, possibly due to differences in consumer habits. Additionally, the other two German-made sodium hyaluronate eye drops are also highly effective.
 
-![图片](images/image98.jpeg)
+![图片](../images/image98.jpeg)
 
 Image: My recent friends.
 

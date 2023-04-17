@@ -29,7 +29,7 @@ A small card is a complete computer.
 
 ### Chapter One
 
-![](images/image11.png)
+![](../images/image11.png)
 
 The above chart shows the top five semiconductor chip card companies: NXP, Infineon, Samsung, STMicroelectronics, and Huada, which is mainly manufactured by Huahong Semiconductor.
 
@@ -61,7 +61,7 @@ In 1968, two German inventors applied for a patent for plastic card-encased chip
 
 It was not until 1974 that the Frenchman Roland Moreno applied for a patent for the electronic payment chip card, at which point people realized that chip cards were meant for payment purposes.
 
-![图片](images/image12.png)
+![图片](../images/image12.png)
 
 The prototype card of Moreno is soldered onto a ring, and the experience of inserting and pulling it out is truly imaginative.
 
@@ -87,7 +87,7 @@ Philips, with its sharp vision, decisively acquired Mikron in order to monopoliz
 
 In the 2000s, contactless banking cards saw a significant increase, as did various transportation cards, access control cards, and so on. In the 2010s, NFC has become even more popular.
 
-![](images/image13.jpeg)
+![](../images/image13.jpeg)
 
 Philips hit the gold ingot and pies are falling from the sky.
 
@@ -105,7 +105,7 @@ Through TPM, a company can ensure that no external computer can log into the com
 
 I was the first one in China to undertake a TPM project. However, later on, the TCG 1.2 standard was rejected by the authorities for not complying with cryptographic regulations, and only a few thousand were produced before it was terminated.
 
-![](images/image14.jpeg)
+![](../images/image14.jpeg)
 
 "The TCG organization includes the top IT giants in the world, but the implementation of TPM still lacks enthusiasm after more than a decade. The security policies of various countries are also difficult to express in words."
 
@@ -119,7 +119,7 @@ The technology of chip cards is still constantly advancing.
 
 In addition to constantly introducing higher levels of encryption and standards, capacity is also increasing. For example, electronic passport chips can store large amounts of information such as high-definition photographs and fingerprints. The new 5G SIM card can even have up to 64G of storage, and encrypting such a large capacity is a very difficult problem.
 
-![](images/image15.jpeg)
+![](../images/image15.jpeg)
 
 (Credit: Thales)
 
@@ -131,10 +131,10 @@ Finally, let's gossip a little bit more.
 
 The chip designs of various module factories are often different, and some designs can reveal the manufacturer's identity.
 
-![](images/image16.jpeg)
+![](../images/image16.jpeg)
 
 I always felt that these designs were becoming more and more ugly until the emergence of the Apple Card from Apple.
 
-![](images/image17.jpeg)
+![](../images/image17.jpeg)
 
 Not only is the card made of titanium, even the chip contacts are perfectly rounded rectangles. This is the innovation of the Fearless One.

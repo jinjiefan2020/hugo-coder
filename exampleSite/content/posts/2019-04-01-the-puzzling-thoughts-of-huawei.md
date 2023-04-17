@@ -75,11 +75,11 @@ Unfortunately, this can only be believed half way. AT&T and Verizon are among th
 
 Undoubtedly, Huawei's early layout and huge investment in 5G have made it a leader in the 5G market. However, how far ahead is Huawei's position? Let's take a look at two tables from the German professional intellectual property analysis company IPLytics.
 
-![](images/image77.jpeg)
+![](../images/image77.jpeg)
 
 (5G Manufacturer's Statement Patent Ranking)
 
-![图片](images/image78.png)
+![图片](../images/image78.png)
 
 (Ranking of 5G vendors' patent portfolio strength)
 

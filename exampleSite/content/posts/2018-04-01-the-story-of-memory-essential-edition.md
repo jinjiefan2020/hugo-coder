@@ -20,7 +20,7 @@ However, this philosophically meaningful name has not brought good luck.
 
 This company is called Qimonda, and today few people know about it because it only lasted three years before it collapsed as the world's second largest memory company.
 
-![](images/image18.jpeg)
+![](../images/image18.jpeg)
 
 Infineon announced the spin-off of Qimonda, with two CEOs holding 12-inch wafers.
 
@@ -32,7 +32,7 @@ In stark contrast to this, Micron's CEO Steve Appleton, who was younger and more
 
 1999 was a year of big changes in the memory industry: South Korea's third-ranked semiconductor company, Hyundai, acquired fifth-ranked LG Semiconductor; Hitachi and NEC merged their memory divisions to form Elpida; IBM withdrew from its joint venture with Toshiba, Dominion, and exited the memory business; Micron, which had just completed its acquisition of Texas Instruments' memory division, also entered the mainland Chinese market at that time; and the 921 earthquake in Taiwan caused a threefold increase in memory prices within a week in Zhongguancun due to production line losses, which is unimaginable today.
 
-![](images/image19.jpeg)
+![](../images/image19.jpeg)
 
 Why are various electronic giants all selling off their memory businesses one after another? It is because the prices of memory fluctuate greatly, and the profit is often insufficient. Companies and investors who are publicly listed do not like financial reports that have inconsistent profits and losses.
 
@@ -46,7 +46,7 @@ Memory is the oil of the electronics industry, as it is required by almost every
 
 Robert H. Dennard of IBM is recognized as the father of DRAM for his concept of refreshing MOS capacitor storage. The earliest 256-bit memory produced by Fairchild could only store a few dozen letters. After several key members defected from Fairchild, the i1103 DRAM produced by Intel in 1970 was a groundbreaking achievement, bringing storage cost down to 1 cent per bit.
 
-![](images/image20.jpeg)
+![](../images/image20.jpeg)
 
 Intel's first pot of gold, the i1103 1KB memory chip.
 
@@ -104,7 +104,7 @@ Today, our semiconductor equipment technology is approximately 20 years behind, 
 
 The first half of the 1990s was the golden era of PC development, and the release of Windows 95 was the pinnacle of its success.
 
-I was extremely excited when I installed Win95 on a 486 with only 4MB of memory. I still remember why I didn't upgrade the memory - at that time, 16MB of memory in Zhongguancun would cost about 4000-5000 yuan, which is less than 1 yuan today. ![](images/image21.jpeg) (Nostalgic for the blue sky and white clouds of Windows 95, while Vista started to become that hazy blue.)
+I was extremely excited when I installed Win95 on a 486 with only 4MB of memory. I still remember why I didn't upgrade the memory - at that time, 16MB of memory in Zhongguancun would cost about 4000-5000 yuan, which is less than 1 yuan today. ![](../images/image21.jpeg) (Nostalgic for the blue sky and white clouds of Windows 95, while Vista started to become that hazy blue.)
 
 NEC and Hitachi remained among the top three in the early 1990s, but their competitiveness gradually decreased due to the appreciation of the yen and the bursting of the economic bubble.
 
@@ -142,13 +142,13 @@ It should be said that South Korea's rebuilding this time around has been very s
 
 The background of the NEC and Hitachi merger of the DRAM business in 1999 was that NEC's market share had fallen to 11% and fourth place, while Hitachi had fallen to 7% and eighth place. Both parties recognized that such market share could not survive independently, especially after Micron's acquisition of TI DRAM and termination of its technical cooperation with NEC.
 
-![](images/image22.jpeg) _（Elpida Chips）_
+![](../images/image22.jpeg) _（Elpida Chips）_
 
 However, the joint venture company Elpida did not achieve the 20% market share as expected by the two parent companies, instead falling to 5% in 2002 until the legendary President Yukio Sakamoto took over. (Elpida memory chip)
 
 ### Chapter 4: 2000s
 
-![图片](images/image23.png) _（2001-2014 DRAM Market Share）_
+![图片](../images/image23.png) _（2001-2014 DRAM Market Share）_
 
 In the year 2000, there were still over 20 global memory manufacturers, but by the end of the 00s, there were less than 10 left. After the major consolidation in 1999, the ranking was settled by 2001 with Samsung, Micron, Hynix, and Infineon holding nearly 80% of the market share. (DRAM market share from 2001-2014)
 
@@ -190,7 +190,7 @@ In 2004, Michael Schumacher suddenly resigned as CEO, citing mismanagement of fu
 
 After 7 years of long litigation, the two sides reached a settlement, in which Infineon paid 5.9 million euros in compensation. Michael Schumacher, who supported radical memory investments, resigned, laying the foundation for Infineon's memory collapse four years later.
 
-![](images/image24.jpeg)
+![](../images/image24.jpeg)
 
 Schumacher is the flagship of Infineon's memory expansion. His carefully planned strategy has been almost successful. If both Promos and Nanya are under his leadership, plus SMIC, the market share will nearly reach 30%, which can compete with Samsung.
 
@@ -288,7 +288,7 @@ Micron's friends said that they live in a remote area without much to do, so eve
 
 Appleton was passionate about extreme sports throughout his life, including car racing, surfing, skydiving, and flying. Despite surviving several plane crashes, he tragically passed away in February 2012 after piloting his own plane that crashed. (Micron official website mourns Steve Appleton)
 
-![](images/image25.jpeg)
+![](../images/image25.jpeg)
 
 "I don't have any remorse. I have enjoyed a remarkable life filled with experiences beyond what one person could imagine." - Steve Appleton (This statement is moving.)
 
@@ -380,11 +380,11 @@ By 2017, the three major DRAM manufacturers in the US and South Korea had a mark
 
 Perhaps we shouldn't believe in timing or luck, but they are always undeniable factors. The decline of Japanese manufacturers and the rise of Korean manufacturers, as well as the fluctuations of American manufacturers, all have a common thread that provokes them, and that is the exchange rate. Looking at the chart below, the long-term depreciation of the Korean won is the engine of the Korean economy. Each rapid depreciation caused by financial crises is like a lifesaving injection for Korean export-oriented enterprises.
 
-![](images/image26.jpeg)
+![](../images/image26.jpeg)
 
 (1969-2018 Three Currency Exchange Rate Trend Charts) I have carefully drawn the following charts. Having experienced these moments personally, I deeply understand the fate of Infineon (Qimonda), Elpida, and Hynix seemed to be not entirely in their own hands.
 
-![](images/image27.jpeg)
+![](../images/image27.jpeg)
 
 (1996-2018 Three Currency Exchange Rate Trend Charts)
 

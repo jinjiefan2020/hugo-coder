@@ -20,7 +20,7 @@ The wavelength of a 100KeV electron beam is only 0.004nm, which provides a much 
 
 However, due to the Coulomb effect between electrons causing electron beam deflection and the scattering atomization effect shown in the figure below, it is difficult for electron beam lithography to simply increase current to improve efficiency.
 
-![图片](images/image9.png)
+![图片](../images/image9.png)
 
 The first generation of Nikon's EPL produced 60nm wafers with only 7-10 wafers per hour. According to Tennant's fifth power law, the efficiency of producing 15nm wafers will decrease to only 0.1%, and producing one wafer per day would be considered decent.
 

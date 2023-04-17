@@ -82,7 +82,7 @@ If Google wins this case, copying ten thousand lines of code would not be consid
 
 During the hearing on the 7th, several judges' questioning showed that they were still very perplexed about this case. They attempted to use ordering food and listening to music to understand whether the API should be protected or not.
 
-![图片](images/image63.png)
+![图片](../images/image63.png)
 
 It is said that the judge of the appellate court specifically studied Java programming for this case, and as a result, ruled in favor of Oracle.
 
